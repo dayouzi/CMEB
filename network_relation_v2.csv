@@ -1,0 +1,1500 @@
+End system	Computer network	-1
+End system	Server (computing)	0
+End system	Router (computing)	0
+End system	Virtual circuit	0
+Computer network	Network security	1
+Computer network	Twisted pair	0
+Computer network	Link layer	1
+Computer network	Router (computing)	1
+Computer network	Virtual circuit	1
+Computer network	Port (computer networking)	1
+Computer network	Network congestion	1
+Computer network	Internet protocol	1
+Computer network	Digital subscriber line	0
+Computer network	IEEE 802.11	1
+Computer network	Client (computing)	0
+Computer network	Transport layer	1
+Computer network	ALOHAnet	1
+Computer network	Network interface controller	1
+Computer network	Transmission Control Protocol	1
+Computer network	Wireless network	1
+Computer network	Hierarchical routing	1
+Computer network	Protocol stack	1
+Computer network	MAC address	0
+Computer network	Exponential backoff	1
+Computer network	Virtual LAN	1
+Computer network	Local area network	1
+Computer network	Overlay network	1
+Computer network	Flooding (computer networking)	0
+Computer network	Multicast	1
+Computer network	Routing	1
+Computer network	Multiplexing	1
+Computer network	Connectionless communication	1
+Computer network	Internet	0
+Computer network	IP multicast	1
+Computer network	Store and forward	1
+Computer network	Attack (computing)	0
+Computer network	Network layer	1
+Computer network	Data link layer	1
+Computer network	Circuit switching	1
+Computer network	Processing delay	1
+Computer network	Address Resolution Protocol	1
+Computer network	Asynchronous Transfer Mode	0
+Computer network	Presentation layer	1
+Computer network	Connection-oriented communication	1
+Computer network	IP address	1
+Computer network	Physical layer	1
+Computer network	Session layer	1
+Computer network	Network delay	1
+Computer network	Retransmission (data networks)	1
+Computer network	fast retransmit	1
+Computer network	Time-division multiplexing	1
+Computer network	Internet protocol suite	1
+Computer network	Application layer	1
+Computer network	Email	0
+Computer network	Round-trip delay time	1
+Computer network	Dynamic Host Configuration Protocol	1
+Computer network	Data center	0
+Computer network	Error detection and correction	0
+Computer network	Network service	1
+Computer network	Spyware	0
+Computer network	IPv4	1
+Computer network	Client-server model	1
+Computer network	OSI model	1
+Computer network	Encapsulation (networking)	1
+Computer network	Subnetwork	1
+Computer network	packet forwarding	1
+Computer network	Border Gateway Protocol	1
+Computer network	Peer-to-peer file sharing	1
+Computer network	Communications protocol	1
+Computer network	Computer virus	0
+Computer network	Internet access	1
+Computer network	File transfer	1
+Computer network	Cellular network	1
+Router (computing)	Multicast	0
+Router (computing)	Routing	-1
+Router (computing)	Network congestion	0
+Router (computing)	Internet protocol	0
+Router (computing)	Voice over IP	0
+Router (computing)	Internet protocol suite	0
+Router (computing)	IPv6 packet	0
+Router (computing)	IP fragmentation	0
+Router (computing)	DSL modem	0
+Router (computing)	Routing protocol	1
+Router (computing)	Active queue management	0
+Router (computing)	MAC address	0
+Router (computing)	Virtual LAN	0
+Router (computing)	Local area network	0
+Bottleneck (network)	Network congestion	1
+Network congestion	Slow-start	1
+Network congestion	Network delay	1
+Network congestion	Retransmission (data networks)	0
+Network congestion	Flow control (data)	1
+Network congestion	HTTP persistent connection	1
+Network congestion	Transmission Control Protocol	1
+Network congestion	Load balancing (computing)	1
+Network congestion	Network service	0
+Network congestion	Local area network	0
+Network socket	Computer network	-1
+Network socket	Server (computing)	0
+Network socket	Router (computing)	0
+Network socket	Virtual circuit	0
+Network socket	Network packet	0
+Network socket	Internet protocol	0
+Network socket	Application programming interface	0
+Network socket	Internet protocol suite	0
+Network socket	IP address	0
+Network socket	Client (computing)	0
+Network socket	Transport layer	0
+Network socket	Internet Protocol	-1
+Network socket	OSI model	0
+Network socket	Routing protocol	0
+Network socket	Transmission Control Protocol	1
+Network socket	User Datagram Protocol	0
+Network socket	Load balancing (computing)	0
+Network socket	Link layer	0
+Network socket	Internet Control Message Protocol	0
+Network socket	Inter-process communication	1
+Network packet	Computer network	-1
+Network packet	Router (computing)	0
+Network packet	Virtual circuit	0
+Network packet	Internet protocol	0
+Network packet	Internet protocol suite	0
+Network packet	Transport layer	0
+Network packet	Internet Protocol	0
+Network packet	OSI model	0
+Network packet	Transmission Control Protocol	0
+Network packet	User Datagram Protocol	0
+Network packet	Ethernet frame	1
+Network packet	Packet switching	1
+Network packet	Packet loss	1
+Network packet	Network layer	0
+Network packet	Data link layer	0
+Network packet	Circuit switching	1
+Network packet	Round-trip delay time	1
+Network packet	Presentation layer	0
+Network packet	Network scheduler	0
+Network packet	GSM	0
+Network packet	Physical layer	0
+Network packet	Asynchronous Transfer Mode	0
+Network packet	Routing	0
+Network packet	IPv4	1
+Network packet	IPv6	1
+Network packet	IP fragmentation	0
+Network packet	Communications protocol	0
+Internet protocol	Transmission Control Protocol	0
+Internet protocol	Interior gateway protocol	0
+Internet protocol	Domain name	0
+Internet protocol	Multicast	0
+Internet protocol	Virtual circuit	0
+Internet protocol	Automatic repeat request	0
+Internet protocol	Network congestion	0
+Internet protocol	Open Shortest Path First	0
+Internet protocol	Voice over IP	1
+Internet protocol	DNS root zone	0
+Internet protocol	Network layer	0
+Internet protocol	User Datagram Protocol	1
+Internet protocol	Asynchronous Transfer Mode	0
+Internet protocol	Best-effort delivery	0
+Internet protocol	Connection-oriented communication	0
+Internet protocol	Network service	0
+Internet protocol	Virtual LAN	0
+Internet protocol	Local area network	0
+Internet protocol	4G	0
+Application programming interface	Internet protocol suite	0
+Internet protocol suite	Session layer	0
+Internet protocol suite	Domain Name System	-1
+Internet protocol suite	Application layer	0
+Internet protocol suite	Internet protocol	0
+Internet protocol suite	Voice over IP	0
+Internet protocol suite	IP address	-1
+Internet protocol suite	Internet Protocol	1
+Internet protocol suite	Port (computer networking)	0
+Internet protocol suite	File Transfer Protocol	0
+Internet protocol suite	Transmission Control Protocol	1
+Internet protocol suite	User Datagram Protocol	0
+Internet protocol suite	Link layer	1
+Internet protocol suite	Internet Control Message Protocol	1
+Internet protocol suite	Protocol stack	0
+Internet protocol suite	Data link layer	0
+Internet protocol suite	MAC address	0
+Internet protocol suite	Hypertext Transfer Protocol	1
+Internet protocol suite	Open Shortest Path First	0
+Internet protocol suite	Carrier sense multiple access with collision detection	0
+Internet protocol suite	Classless Inter-Domain Routing	0
+IP address	Router (computing)	0
+IP address	Internet protocol suite	1
+IP address	Internet Protocol	-1
+IP address	Transmission Control Protocol	1
+IP address	User Datagram Protocol	0
+IP address	Load balancing (computing)	2
+IP address	MAC address	0
+IP address	Open Shortest Path First	0
+IP address	Forwarding information base	0
+IP address	Overlay network	0
+IP address	Multicast	0
+IP address	Internet	-1
+IP address	IP multicast	1
+IP address	Network layer	0
+IP address	4G	0
+IP address	Digital subscriber line	0
+IP address	Port (computer networking)	0
+IP address	Root name server	0
+IP address	Domain name	0
+IP address	Dynamic Host Configuration Protocol	1
+IP address	List of DNS record types	1
+IP address	Hypertext Transfer Protocol	0
+IP address	Classless Inter-Domain Routing	1
+IP address	IPv4	0
+IP address	IPv6	0
+IP address	HTTP cookie	0
+IP address	Network address translation	1
+IP address	Voice over IP	0
+IP address	IP address spoofing	0
+IP address	Subnetwork	0
+IP address	DSL modem	1
+IP address	Border Gateway Protocol	0
+Client (computing)	Web page	0
+Client (computing)	Client-server model	1
+Client (computing)	User agent	0
+Client (computing)	Internet protocol suite	0
+Client (computing)	Simple Mail Transfer Protocol	0
+Client (computing)	User Datagram Protocol	0
+Client (computing)	Web application	0
+Client (computing)	Inter-process communication	0
+Client (computing)	Network service	0
+Client (computing)	File transfer	0
+Transport layer	Slow-start	0
+Transport layer	Virtual circuit	0
+Transport layer	Network congestion	0
+Transport layer	Internet protocol	0
+Transport layer	Internet protocol suite	0
+Transport layer	Internet Protocol	0
+Transport layer	OSI model	-1
+Transport layer	Transmission Control Protocol	1
+Transport layer	User Datagram Protocol	0
+Transport layer	Protocol stack	0
+Transport layer	Multicast	0
+Transport layer	Automatic repeat request	0
+Transport layer	Flow control (data)	-1
+Transport layer	IPv6 packet	0
+Transport layer	Best-effort delivery	0
+Transport layer	Data link layer	0
+Transport layer	Asynchronous Transfer Mode	0
+Transport layer	Connection-oriented communication	0
+Transport layer	Session layer	0
+Transport layer	Negative-acknowledge character	0
+Transport layer	Application layer	0
+Transport layer	Port (computer networking)	0
+Transport layer	Network service	0
+Internet Protocol	Best-effort delivery	0
+Internet Protocol	Router (computing)	0
+Internet Protocol	Virtual circuit	0
+Internet Protocol	Network congestion	0
+Internet Protocol	Network socket	1
+Internet Protocol	Internet protocol suite	-1
+Internet Protocol	IP address	1
+Internet Protocol	OSI model	0
+Internet Protocol	Transmission Control Protocol	0
+Internet Protocol	User Datagram Protocol	0
+Internet Protocol	Link layer	0
+Internet Protocol	Internet Control Message Protocol	1
+Internet Protocol	Protocol stack	-1
+Internet Protocol	MAC address	0
+Internet Protocol	Open Shortest Path First	0
+Internet Protocol	Virtual LAN	0
+Internet Protocol	Multicast	0
+Internet Protocol	LTE (telecommunication)	1
+Internet Protocol	Connectionless communication	-1
+Internet Protocol	Internet	-1
+Internet Protocol	IP multicast	1
+Internet Protocol	Network layer	-1
+Internet Protocol	Connection-oriented communication	0
+Internet Protocol	Application layer	0
+Internet Protocol	Domain name	0
+Internet Protocol	Wi-Fi	0
+Internet Protocol	Network service	0
+Internet Protocol	Classless Inter-Domain Routing	0
+Internet Protocol	IPv4	1
+Internet Protocol	IPv6	1
+Internet Protocol	Network address translation	1
+Internet Protocol	Voice over IP	0
+Internet Protocol	IP address spoofing	1
+Internet Protocol	Communications protocol	-1
+OSI model	Virtual circuit	0
+OSI model	Internet protocol	0
+OSI model	Internet protocol suite	0
+OSI model	Routing Information Protocol	0
+OSI model	Transport layer	1
+OSI model	Transmission Control Protocol	0
+OSI model	User Datagram Protocol	0
+OSI model	Link layer	1
+OSI model	Protocol stack	0
+OSI model	MAC address	0
+OSI model	Open Shortest Path First	0
+OSI model	Virtual LAN	0
+OSI model	Automatic repeat request	0
+OSI model	Network layer	1
+OSI model	Data link layer	0
+OSI model	Asynchronous Transfer Mode	0
+OSI model	Presentation layer	1
+OSI model	Channel (communications)	0
+OSI model	Session layer	0
+OSI model	IEEE 802.11	0
+OSI model	Application layer	1
+OSI model	Security service (telecommunication)	3
+OSI model	Encapsulation (networking)	0
+OSI model	IP fragmentation	0
+OSI model	File Transfer Protocol	0
+Routing protocol	Transmission Control Protocol	0
+Routing protocol	Interior gateway protocol	0
+Routing protocol	Computer network	-1
+Routing protocol	Router (computing)	-1
+Routing protocol	Flooding (computer networking)	0
+Routing protocol	IPv6	0
+Routing protocol	Internet protocol	0
+Routing protocol	Distance-vector routing protocol	1
+Routing protocol	Routing Information Protocol	1
+Routing protocol	Link-state routing protocol	1
+Routing protocol	Internet Protocol	0
+Routing protocol	Network layer	0
+Routing protocol	User Datagram Protocol	0
+Routing protocol	Border Gateway Protocol	0
+Routing protocol	Protocol Independent Multicast	2
+Routing protocol	Routing	-1
+Routing protocol	Open Shortest Path First	1
+Routing protocol	Forwarding information base	0
+Routing protocol	IPv4	0
+Transmission Control Protocol	Slow-start	0
+Transmission Control Protocol	Network congestion	-1
+Transmission Control Protocol	Network socket	-1
+Transmission Control Protocol	Internet protocol suite	-1
+Transmission Control Protocol	IP address	-1
+Transmission Control Protocol	Transport layer	-1
+Transmission Control Protocol	Internet Control Message Protocol	1
+Transmission Control Protocol	Open Shortest Path First	0
+Transmission Control Protocol	Automatic repeat request	0
+Transmission Control Protocol	Flow control (data)	-1
+Transmission Control Protocol	Packet loss	0
+Transmission Control Protocol	Best-effort delivery	0
+Transmission Control Protocol	Asynchronous Transfer Mode	0
+Transmission Control Protocol	4G	0
+Transmission Control Protocol	Connection-oriented communication	1
+Transmission Control Protocol	TCP congestion-avoidance algorithm	1
+Transmission Control Protocol	Time-division multiplexing	0
+Transmission Control Protocol	Simple Mail Transfer Protocol	1
+Transmission Control Protocol	Port (computer networking)	0
+Transmission Control Protocol	Network address translation	-1
+Transmission Control Protocol	File Transfer Protocol	0
+Transmission Control Protocol	Communications protocol	-1
+User Datagram Protocol	Transmission Control Protocol	0
+User Datagram Protocol	Domain Name System	0
+User Datagram Protocol	Multicast	0
+User Datagram Protocol	Network congestion	0
+User Datagram Protocol	Routing Information Protocol	0
+User Datagram Protocol	DNS root zone	0
+User Datagram Protocol	Port (computer networking)	0
+User Datagram Protocol	Best-effort delivery	0
+User Datagram Protocol	Open Shortest Path First	0
+Load balancing (computing)	BitTorrent	0
+Load balancing (computing)	Reliability (computer networking)	-1
+Load balancing (computing)	Computer network	0
+Load balancing (computing)	Server (computing)	0
+Load balancing (computing)	Routing	0
+Load balancing (computing)	Client-server model	0
+Load balancing (computing)	Network congestion	-1
+Load balancing (computing)	Network address translation	-1
+Load balancing (computing)	Throughput	1
+Load balancing (computing)	IP address	-2
+Load balancing (computing)	OSI model	0
+Load balancing (computing)	File Transfer Protocol	0
+Load balancing (computing)	Domain name	0
+Load balancing (computing)	HTTP cookie	0
+Load balancing (computing)	Local area network	0
+Link layer	IPv6	1
+Link layer	Internet	-1
+Link layer	Internet protocol suite	-1
+Link layer	Carrier sense multiple access with collision detection	0
+Link layer	OSI model	-1
+Link layer	IPv6 packet	1
+Link layer	Network layer	0
+Link layer	Data link layer	0
+Link layer	Address Resolution Protocol	2
+Link layer	Protocol stack	0
+Link layer	MAC address	0
+Link layer	Open Shortest Path First	0
+Link layer	Internet protocol	0
+Link layer	Local area network	0
+Link layer	IPv4	1
+Internet Control Message Protocol	IPv6	0
+Internet Control Message Protocol	Transmission Control Protocol	-1
+Internet Control Message Protocol	Denial-of-service attack	0
+Internet Control Message Protocol	Router (computing)	0
+Internet Control Message Protocol	Internet Group Management Protocol	2
+Internet Control Message Protocol	Connectionless communication	1
+Internet Control Message Protocol	Network address translation	3
+Internet Control Message Protocol	Border Gateway Protocol	1
+Internet Control Message Protocol	Internet protocol suite	-1
+Internet Control Message Protocol	IP fragmentation	1
+Internet Control Message Protocol	Internet Protocol	-1
+Internet Control Message Protocol	OSI model	0
+Internet Control Message Protocol	Network layer	0
+Internet Control Message Protocol	User Datagram Protocol	0
+Internet Control Message Protocol	IP multicast	0
+Internet Control Message Protocol	Packet loss	0
+Internet Control Message Protocol	Datagram	1
+Internet Control Message Protocol	Communications protocol	0
+Internet Control Message Protocol	Internet protocol	0
+Internet Control Message Protocol	IPv4	0
+Carrier sense multiple access with collision avoidance	Computer network	1
+Carrier sense multiple access with collision avoidance	Network congestion	0
+Carrier sense multiple access with collision avoidance	OSI model	0
+Carrier sense multiple access with collision avoidance	Carrier sense multiple access	1
+Carrier sense multiple access with collision avoidance	Exponential backoff	0
+Carrier sense multiple access with collision avoidance	Channel access method	-1
+Carrier sense multiple access with collision avoidance	Carrier sense multiple access with collision detection	0
+Carrier sense multiple access with collision avoidance	Local area network	0
+Carrier sense multiple access	ALOHAnet	0
+Carrier sense multiple access	Wi-Fi	0
+Carrier sense multiple access	Carrier sense multiple access with collision detection	0
+Carrier sense multiple access	Link layer	0
+Exponential backoff	Retransmission (data networks)	0
+Exponential backoff	Carrier sense multiple access with collision detection	0
+Exponential backoff	Network congestion	0
+Channel access method	OSI model	0
+Channel access method	Link layer	0
+Channel access method	Carrier sense multiple access with collision avoidance	1
+Channel access method	Carrier sense multiple access	1
+Channel access method	Carrier sense multiple access with collision detection	1
+Channel access method	Local area network	0
+Channel access method	Data link layer	0
+Channel access method	Ethernet	1
+Channel access method	4G	0
+Channel access method	3G	0
+Channel access method	Channel (communications)	0
+Channel access method	GSM	0
+Channel access method	Physical layer	0
+Channel access method	Multiplexing	1
+Channel access method	IEEE 802.11	0
+Channel access method	Access network	0
+Channel access method	2G	0
+Channel access method	Time-division multiplexing	0
+Channel access method	Transmission medium	0
+Channel access method	Code division multiple access	1
+Channel access method	Bluetooth	0
+Channel access method	Frequency-division multiplexing	0
+Local area network	DSL modem	0
+Local area network	Multipath propagation	0
+Local area network	Network service	0
+Local area network	Carrier sense multiple access with collision detection	0
+Local area network	Forwarding information base	0
+Distributed hash table	BitTorrent	0
+Distributed hash table	Overlay network	0
+Distributed hash table	Computer network	0
+Distributed hash table	Multicast	0
+Distributed hash table	Routing	0
+Distributed hash table	Web cache	-1
+Distributed hash table	Peer-to-peer	0
+Distributed hash table	Domain Name System	-1
+Distributed hash table	Load balancing (computing)	0
+BitTorrent	Server (computing)	0
+BitTorrent	Internet protocol	0
+BitTorrent	IP address	0
+BitTorrent	Internet Protocol	0
+BitTorrent	File Transfer Protocol	1
+BitTorrent	Transmission Control Protocol	0
+BitTorrent	Peer-to-peer file sharing	1
+BitTorrent	Hypertext Transfer Protocol	0
+BitTorrent	Internet	0
+Overlay network	Asynchronous Transfer Mode	0
+Overlay network	Multicast	0
+Overlay network	Router (computing)	0
+Overlay network	IP multicast	0
+Domain Name System	Computer network	-1
+Domain Name System	Server (computing)	0
+Domain Name System	Internet protocol	0
+Domain Name System	Internet protocol suite	1
+Domain Name System	IP address	0
+Domain Name System	Internet Protocol	0
+Domain Name System	OSI model	0
+Domain Name System	Transmission Control Protocol	0
+Domain Name System	User Datagram Protocol	2
+Domain Name System	Load balancing (computing)	0
+Domain Name System	Distributed hash table	1
+Domain Name System	Internet	0
+Domain Name System	MX record	0
+Domain Name System	Application layer	1
+Domain Name System	Simple Mail Transfer Protocol	3
+Domain Name System	Proxy server	0
+Domain Name System	DNS root zone	1
+Domain Name System	Email	0
+Domain Name System	Top-level domain	1
+Domain Name System	Port (computer networking)	0
+Domain Name System	Root name server	1
+Domain Name System	Domain name	-1
+Domain Name System	Botnet	0
+Domain Name System	Name server	-1
+Domain Name System	Dynamic Host Configuration Protocol	1
+Domain Name System	CNAME record	1
+Domain Name System	Data center	0
+Domain Name System	Wi-Fi	0
+Domain Name System	List of DNS record types	0
+Domain Name System	Hypertext Transfer Protocol	1
+Domain Name System	Network service	0
+Domain Name System	Spyware	0
+Domain Name System	Classless Inter-Domain Routing	0
+Domain Name System	IPv4	0
+Domain Name System	IPv6	0
+Multicast	IPv6	1
+Multicast	Reliability (computer networking)	1
+Multicast	Routing	1
+Multicast	Reverse path forwarding	1
+Multicast	IP multicast	1
+Multicast	Multiprotocol Label Switching	1
+Multicast	packet forwarding	1
+Multicast	Open Shortest Path First	1
+Multicast	IPv4	1
+Routing	Router (computing)	1
+Routing	Internet protocol	0
+Routing	Internet protocol suite	0
+Routing	Routing Information Protocol	0
+Routing	Internet Protocol	0
+Routing	OSI model	0
+Routing	Routing protocol	1
+Routing	Hierarchical routing	0
+Routing	Routing control plane	1
+Routing	Open Shortest Path First	0
+Routing	Virtual LAN	0
+Routing	Forwarding information base	0
+Routing	Overlay network	0
+Routing	Flooding (computer networking)	0
+Routing	Multicast	-1
+Routing	Packet switching	1
+Routing	Network layer	0
+Routing	Circuit switching	0
+Routing	Asynchronous Transfer Mode	0
+Routing	Network delay	0
+Routing	Reverse path forwarding	1
+Routing	Packet forwarding	0
+Routing	Digital subscriber line	0
+Routing	Wi-Fi	0
+Routing	Classless Inter-Domain Routing	0
+Routing	Network address translation	1
+Routing	Subnetwork	0
+Routing	DSL modem	0
+Routing	packet forwarding	0
+Routing	Border Gateway Protocol	0
+Routing	Protocol Independent Multicast	1
+Web cache	Web page	0
+Web cache	HTTP cookie	0
+Web cache	Proxy server	1
+Web cache	HTTP message body	0
+Web cache	Web application	0
+Web cache	Hypertext Transfer Protocol	1
+Web cache	Distributed hash table	1
+Peer-to-peer	Computer network	0
+Peer-to-peer	Server (computing)	0
+Peer-to-peer	Network congestion	0
+Peer-to-peer	Internet protocol suite	0
+Peer-to-peer	Client (computing)	0
+Peer-to-peer	Transmission Control Protocol	0
+Peer-to-peer	Local area network	0
+Peer-to-peer	BitTorrent	0
+Peer-to-peer	Overlay network	0
+Peer-to-peer	Multicast	0
+Peer-to-peer	Routing	0
+Peer-to-peer	Web cache	0
+Peer-to-peer	Internet	0
+Peer-to-peer	Internet service provider	0
+Peer-to-peer	Application layer	0
+Peer-to-peer	Simple Mail Transfer Protocol	0
+Peer-to-peer	Email	0
+Peer-to-peer	Botnet	0
+Peer-to-peer	Network service	0
+Peer-to-peer	Denial-of-service attack	0
+Peer-to-peer	Client-server model	0
+Peer-to-peer	File Transfer Protocol	0
+Peer-to-peer	Peer-to-peer file sharing	1
+Peer-to-peer	Internet access	0
+Peer-to-peer	File transfer	0
+Packet switching	Computer network	-1
+Packet switching	Router (computing)	0
+Packet switching	Virtual circuit	1
+Packet switching	Network packet	-1
+Packet switching	Internet protocol	0
+Packet switching	Internet protocol suite	0
+Packet switching	Transport layer	0
+Packet switching	Internet Protocol	0
+Packet switching	OSI model	0
+Packet switching	Transmission Control Protocol	0
+Packet switching	User Datagram Protocol	0
+Packet switching	Link layer	0
+Packet switching	Local area network	0
+Packet switching	Overlay network	0
+Packet switching	Routing	-1
+Packet switching	Peer-to-peer	0
+Packet switching	LTE (telecommunication)	0
+Packet switching	Connectionless communication	1
+Packet switching	Internet	-1
+Packet switching	Throughput	0
+Packet switching	Packet switch	1
+Packet switching	Transmission delay	1
+Packet switching	Link-state routing protocol	1
+Packet switching	Multiprotocol Label Switching	1
+Packet switching	Store and forward	-1
+Packet switching	Internet service provider	0
+Packet switching	FIFO (computing and electronics)	-1
+Packet switching	Network layer	0
+Packet switching	Data link layer	0
+Packet switching	Circuit switching	0
+Packet switching	Processing delay	0
+Packet switching	Ethernet	0
+Packet switching	Asynchronous Transfer Mode	0
+Packet switching	Datagram	0
+Packet switching	4G	0
+Packet switching	Connection-oriented communication	0
+Packet switching	Network scheduler	1
+Connectionless communication	Transmission Control Protocol	0
+Connectionless communication	Multicast	0
+Connectionless communication	Router (computing)	0
+Connectionless communication	Packet switching	-1
+Connectionless communication	Internet protocol	1
+Connectionless communication	Stateless protocol	1
+Connectionless communication	Transport layer	0
+Connectionless communication	Internet Protocol	1
+Connectionless communication	Network layer	0
+Connectionless communication	User Datagram Protocol	1
+Connectionless communication	Dynamic Host Configuration Protocol	0
+Connectionless communication	Internet Control Message Protocol	-1
+Connectionless communication	Data link layer	0
+Connectionless communication	Connection-oriented communication	1
+Throughput	Computer network	0
+Throughput	Ethernet frame	0
+Throughput	Network congestion	1
+Throughput	Packet loss	0
+Throughput	Transport layer	0
+Throughput	4G	0
+Throughput	Network scheduler	0
+Packet switch	Packet switching	-1
+Transmission delay	Computer network	-1
+Transmission delay	End-to-end delay	1
+Transmission delay	Network delay	1
+Transmission delay	Processing delay	0
+Transmission delay	Packet switching	-1
+Link-state routing protocol	Distance-vector routing protocol	1
+Link-state routing protocol	Router (computing)	0
+Link-state routing protocol	Packet switching	-1
+Link-state routing protocol	Internet	0
+Link-state routing protocol	Routing Information Protocol	1
+Link-state routing protocol	Routing protocol	-1
+Link-state routing protocol	Ethernet	0
+Link-state routing protocol	Open Shortest Path First	1
+Multiprotocol Label Switching	Virtual circuit	0
+Multiprotocol Label Switching	Internet protocol	0
+Multiprotocol Label Switching	Digital subscriber line	0
+Multiprotocol Label Switching	Internet Protocol	0
+Multiprotocol Label Switching	OSI model	0
+Multiprotocol Label Switching	Link layer	0
+Multiprotocol Label Switching	Hierarchical routing	0
+Multiprotocol Label Switching	Open Shortest Path First	1
+Multiprotocol Label Switching	Virtual LAN	0
+Multiprotocol Label Switching	Forwarding information base	0
+Multiprotocol Label Switching	Interior gateway protocol	0
+Multiprotocol Label Switching	Switched fabric	0
+Multiprotocol Label Switching	Routing	0
+Multiprotocol Label Switching	Packet switching	-1
+Multiprotocol Label Switching	Internet service provider	0
+Multiprotocol Label Switching	Network layer	0
+Multiprotocol Label Switching	Data link layer	0
+Multiprotocol Label Switching	Ethernet	0
+Multiprotocol Label Switching	Asynchronous Transfer Mode	0
+Multiprotocol Label Switching	Datagram	0
+Multiprotocol Label Switching	Connection-oriented communication	0
+Multiprotocol Label Switching	Overlay network	0
+Multiprotocol Label Switching	Multicast	-1
+Multiprotocol Label Switching	Ethernet frame	0
+Multiprotocol Label Switching	IPv4	0
+Multiprotocol Label Switching	IPv6	0
+Multiprotocol Label Switching	Border Gateway Protocol	1
+Store and forward	MX record	0
+Store and forward	Simple Mail Transfer Protocol	1
+Store and forward	File transfer	0
+Store and forward	Packet switching	1
+FIFO (computing and electronics)	Network scheduler	1
+FIFO (computing and electronics)	Packet switching	1
+Network layer	Asynchronous Transfer Mode	0
+Network layer	OSI model	-1
+Network layer	Connection-oriented communication	0
+Network layer	Forwarding information base	0
+Network layer	Internet Protocol	1
+Data link layer	Transmission Control Protocol	0
+Data link layer	Slow-start	0
+Data link layer	IEEE 802.11	0
+Data link layer	Multicast	0
+Data link layer	Automatic repeat request	0
+Data link layer	Core network	0
+Data link layer	Voice over IP	0
+Data link layer	Network layer	0
+Data link layer	Local area network	0
+Data link layer	Asynchronous Transfer Mode	0
+Data link layer	MAC address	0
+Data link layer	Connection-oriented communication	0
+Data link layer	Virtual LAN	0
+Data link layer	Forwarding information base	0
+Circuit switching	Physical layer	0
+Circuit switching	Overlay network	0
+Circuit switching	Virtual circuit	0
+Circuit switching	Multiplexing	0
+Circuit switching	Network packet	-1
+Circuit switching	Digital subscriber line	0
+Circuit switching	Best-effort delivery	0
+Circuit switching	Asynchronous Transfer Mode	0
+Circuit switching	Connection-oriented communication	0
+Circuit switching	Time-division multiplexing	0
+Processing delay	Network delay	0
+Processing delay	Router (computing)	0
+Ethernet	Computer network	1
+Ethernet	Router (computing)	0
+Ethernet	Optical fiber	0
+Ethernet	Network congestion	0
+Ethernet	Digital subscriber line access multiplexer	0
+Ethernet	Network packet	0
+Ethernet	Broadband	0
+Ethernet	Digital subscriber line	0
+Ethernet	Twisted pair	0
+Ethernet	Error detection and correction	0
+Ethernet	Internet Protocol	0
+Ethernet	OSI model	0
+Ethernet	Carrier sense multiple access	0
+Ethernet	Transmission Control Protocol	0
+Ethernet	Wireless network	0
+Ethernet	Link layer	0
+Ethernet	Protocol stack	0
+Ethernet	MAC address	0
+Ethernet	Exponential backoff	0
+Ethernet	Virtual LAN	0
+Ethernet	Local area network	1
+Ethernet	Multicast	0
+Ethernet	Ethernet frame	0
+Ethernet	Crossbar switch	0
+Ethernet	Carrier sense multiple access with collision detection	0
+Ethernet	Store and forward	0
+Ethernet	Internet service provider	0
+Ethernet	IPv6 packet	0
+Ethernet	Data link layer	0
+Ethernet	physical media	0
+Ethernet	Address Resolution Protocol	0
+Ethernet	Asynchronous Transfer Mode	0
+Ethernet	Internet protocol	0
+Ethernet	Physical layer	0
+Ethernet	Multiplexing	0
+Ethernet	IEEE 802.11	0
+Ethernet	Access network	0
+Ethernet	Time-division multiplexing	0
+Ethernet	Internet protocol suite	0
+Ethernet	Wi-Fi	0
+Ethernet	IPv4	0
+Ethernet	ALOHAnet	0
+Ethernet	Computer worm	0
+Ethernet	Network interface controller	0
+Ethernet	Voice over IP	0
+Ethernet	Subnetwork	0
+Ethernet	Home network	0
+Ethernet	DSL modem	0
+Ethernet	packet forwarding	0
+Ethernet	Internet access	0
+Asynchronous Transfer Mode	Connection-oriented communication	0
+Asynchronous Transfer Mode	Multicast	0
+Asynchronous Transfer Mode	Open Shortest Path First	0
+Asynchronous Transfer Mode	Time-division multiplexing	0
+Asynchronous Transfer Mode	Forwarding information base	0
+Datagram	IPv6	0
+Datagram	IEEE 802.11	0
+Datagram	Multicast	0
+Datagram	Virtual circuit	0
+Datagram	Transport layer	0
+Datagram	Network packet	0
+Datagram	Internet protocol	0
+Datagram	Ethernet	0
+Datagram	Internet protocol suite	0
+Datagram	IP fragmentation	0
+Datagram	Internet Protocol	0
+Datagram	OSI model	0
+Datagram	IPv6 packet	0
+Datagram	Transmission Control Protocol	0
+Datagram	User Datagram Protocol	0
+Datagram	Hierarchical routing	0
+Datagram	Connectionless communication	0
+Datagram	Asynchronous Transfer Mode	0
+Datagram	Encapsulation (networking)	0
+Datagram	Connection-oriented communication	0
+4G	Multipath propagation	0
+Connection-oriented communication	Reliability (computer networking)	-1
+Connection-oriented communication	Transmission Control Protocol	-1
+Network scheduler	Ethernet frame	0
+Network scheduler	Packet switching	-1
+Network scheduler	Voice over IP	0
+Network scheduler	Network interface controller	0
+Network scheduler	FIFO (computing and electronics)	-1
+Network scheduler	Transmission Control Protocol	0
+Network scheduler	Data link layer	0
+Network scheduler	OSI model	0
+Network scheduler	Network congestion	0
+Network scheduler	Active queue management	0
+Network scheduler	Router (computing)	0
+3G	Code division multiple access	0
+3G	Network congestion	0
+3G	Voice over IP	0
+3G	Wireless network	0
+3G	Wi-Fi	1
+3G	4G	1
+3G	Internet access	0
+3G	Base transceiver station	0
+3G	GSM	1
+Channel (communications)	Frequency-division multiplexing	1
+Channel (communications)	Connection-oriented communication	0
+Channel (communications)	Multipath propagation	0
+Channel (communications)	Time-division multiplexing	1
+Physical layer	IEEE 802.11	1
+Physical layer	Virtual circuit	1
+Physical layer	OSI model	1
+Physical layer	Digital subscriber line	0
+Physical layer	Voice over IP	0
+Physical layer	Internet protocol suite	0
+Physical layer	Network interface controller	0
+Physical layer	Data link layer	0
+Physical layer	Local area network	0
+Physical layer	Wi-Fi	0
+Physical layer	Network congestion	0
+Physical layer	Asynchronous Transfer Mode	0
+Physical layer	Protocol stack	0
+Physical layer	Link layer	0
+Physical layer	Forward error correction	0
+Physical layer	Channel (communications)	0
+Physical layer	Wireless network	0
+Multiplexing	Physical layer	0
+Multiplexing	Multicast	0
+Multiplexing	Time-division multiplexing	1
+Multiplexing	OSI model	0
+Multiplexing	Digital subscriber line access multiplexer	0
+Multiplexing	Frequency-division multiplexing	1
+Multiplexing	Voice over IP	0
+Multiplexing	Digital subscriber line	0
+Multiplexing	Transport layer	0
+Multiplexing	Port (computer networking)	0
+Multiplexing	Transmission Control Protocol	0
+Multiplexing	User Datagram Protocol	0
+Multiplexing	Asynchronous Transfer Mode	0
+Multiplexing	Data link layer	0
+Multiplexing	Carrier sense multiple access	0
+Multiplexing	Communications protocol	0
+Multiplexing	Channel access method	-1
+Multiplexing	Channel (communications)	0
+IEEE 802.11	Voice over IP	0
+IEEE 802.11	Local area network	0
+Access network	Digital subscriber line access multiplexer	0
+Access network	Cable Internet access	0
+Access network	Voice over IP	0
+Access network	Core network	1
+Access network	Wi-Fi	0
+Access network	Internet access	1
+Access network	GSM	0
+2G	Multiplexing	0
+2G	Code division multiple access	0
+2G	LTE (telecommunication)	0
+2G	3G	1
+2G	Wireless network	0
+2G	Wi-Fi	0
+2G	4G	1
+2G	GSM	0
+2G	Internet access	0
+2G	Cellular network	0
+Time-division multiplexing	Frequency-division multiplexing	0
+Transmission medium	Physical layer	0
+Transmission medium	Twisted pair	0
+Transmission medium	Coaxial cable	0
+Transmission medium	Path loss	0
+Transmission medium	Optical fiber	0
+Transmission medium	Internet protocol suite	0
+Transmission medium	OSI model	0
+Transmission medium	Carrier sense multiple access	0
+Transmission medium	Channel (communications)	0
+Code division multiple access	Channel access method	-1
+Code division multiple access	Cellular network	0
+Frequency-division multiplexing	DSL modem	0
+MX record	Domain name	0
+Application layer	Domain Name System	-1
+Application layer	Multicast	0
+Application layer	Internet protocol	0
+Application layer	Routing Information Protocol	0
+Application layer	OSI model	-1
+Application layer	File Transfer Protocol	0
+Application layer	Network service	0
+Simple Mail Transfer Protocol	Domain Name System	0
+Simple Mail Transfer Protocol	OSI model	0
+Simple Mail Transfer Protocol	Internet Message Access Protocol	0
+Simple Mail Transfer Protocol	MX record	0
+Simple Mail Transfer Protocol	Application layer	0
+Simple Mail Transfer Protocol	Internet protocol suite	0
+Simple Mail Transfer Protocol	Store and forward	-1
+Simple Mail Transfer Protocol	Port (computer networking)	0
+Simple Mail Transfer Protocol	Transmission Control Protocol	-1
+Simple Mail Transfer Protocol	Domain name	-1
+Simple Mail Transfer Protocol	Connection-oriented communication	0
+Proxy server	BitTorrent	0
+Proxy server	IPv6	0
+Proxy server	Computer network	-1
+Proxy server	Server (computing)	1
+Proxy server	Router (computing)	0
+Proxy server	Web cache	-1
+Proxy server	HTTP cookie	0
+Proxy server	Internet protocol	0
+Proxy server	IP address	0
+Proxy server	Client (computing)	0
+Proxy server	Internet Protocol	0
+Proxy server	OSI model	0
+Proxy server	Load balancing (computing)	0
+Proxy server	Data center	0
+Proxy server	Hypertext Transfer Protocol	0
+Top-level domain	Root name server	1
+Top-level domain	Domain name	-1
+Top-level domain	Domain Name System	-1
+Top-level domain	DNS root zone	0
+Top-level domain	HTTP cookie	0
+Port (computer networking)	File Transfer Protocol	0
+Root name server	IPv6	0
+Root name server	Domain Name System	-1
+Root name server	DNS root zone	1
+Root name server	Top-level domain	-1
+Root name server	User Datagram Protocol	0
+Root name server	IPv4	0
+Domain name	Top-level domain	1
+Domain name	Internet service provider	0
+Domain name	Domain Name System	1
+Domain name	Simple Mail Transfer Protocol	1
+Domain name	DNS root zone	1
+Name server	Domain Name System	1
+Name server	Internet protocol	0
+Name server	DNS root zone	1
+Name server	Internet Protocol	0
+Name server	Root name server	0
+Name server	Domain name	0
+Name server	Dynamic Host Configuration Protocol	0
+Name server	List of DNS record types	1
+Name server	Network service	0
+Name server	Internet	0
+Name server	Local area network	0
+Dynamic Host Configuration Protocol	IPv6	0
+Dynamic Host Configuration Protocol	Domain Name System	-1
+Dynamic Host Configuration Protocol	Client-server model	0
+Dynamic Host Configuration Protocol	OSI model	0
+Dynamic Host Configuration Protocol	Digital subscriber line	0
+Dynamic Host Configuration Protocol	Internet protocol	0
+Dynamic Host Configuration Protocol	Data link layer	0
+Dynamic Host Configuration Protocol	Internet protocol suite	0
+Dynamic Host Configuration Protocol	IP address	-1
+Dynamic Host Configuration Protocol	Subnetwork	0
+Dynamic Host Configuration Protocol	Internet Protocol	0
+Dynamic Host Configuration Protocol	DSL modem	0
+Dynamic Host Configuration Protocol	Domain name	0
+Dynamic Host Configuration Protocol	User Datagram Protocol	0
+Dynamic Host Configuration Protocol	Wi-Fi	0
+Dynamic Host Configuration Protocol	MAC address	0
+Dynamic Host Configuration Protocol	Network service	0
+Dynamic Host Configuration Protocol	Virtual LAN	0
+Dynamic Host Configuration Protocol	IPv4	0
+CNAME record	Domain Name System	-1
+CNAME record	MX record	0
+CNAME record	Domain name	0
+CNAME record	List of DNS record types	0
+List of DNS record types	IPv6	0
+List of DNS record types	MX record	0
+List of DNS record types	IP address	-1
+List of DNS record types	IPv4	0
+Hypertext Transfer Protocol	Slow-start	0
+Hypertext Transfer Protocol	Web page	0
+Hypertext Transfer Protocol	Application programming interface	0
+Hypertext Transfer Protocol	Web cache	-1
+Hypertext Transfer Protocol	Port (computer networking)	0
+Hypertext Transfer Protocol	User agent	0
+Hypertext Transfer Protocol	HTTP cookie	1
+Hypertext Transfer Protocol	Application layer	0
+Hypertext Transfer Protocol	Internet protocol suite	-1
+Hypertext Transfer Protocol	Domain Name System	-1
+Hypertext Transfer Protocol	Transport layer	0
+Hypertext Transfer Protocol	OSI model	0
+Hypertext Transfer Protocol	HTTP message body	1
+Hypertext Transfer Protocol	Transmission Control Protocol	0
+Hypertext Transfer Protocol	User Datagram Protocol	0
+Hypertext Transfer Protocol	Web application	0
+Hypertext Transfer Protocol	Wi-Fi	0
+Hypertext Transfer Protocol	Communications protocol	-1
+Hypertext Transfer Protocol	Connection-oriented communication	0
+Hypertext Transfer Protocol	File transfer	0
+Spyware	HTTP cookie	0
+Classless Inter-Domain Routing	Internet protocol	0
+Classless Inter-Domain Routing	Open Shortest Path First	0
+Classless Inter-Domain Routing	Routing Information Protocol	0
+Classless Inter-Domain Routing	IP address	-1
+IPv4	Router (computing)	0
+IPv4	Network congestion	0
+IPv4	Internet protocol	0
+IPv4	Internet protocol suite	0
+IPv4	Internet Protocol	-1
+IPv4	OSI model	0
+IPv4	Transmission Control Protocol	0
+IPv4	User Datagram Protocol	0
+IPv4	Link layer	-1
+IPv4	MAC address	0
+IPv4	Open Shortest Path First	0
+IPv4	Multicast	-1
+IPv4	Ethernet frame	0
+IPv4	IP multicast	0
+IPv4	Internet Group Management Protocol	0
+IPv4	IPv6 packet	0
+IPv4	4G	0
+IPv4	DNS root zone	0
+IPv4	Top-level domain	0
+IPv4	Classless Inter-Domain Routing	0
+IPv4	IPv6	0
+IPv4	Network address translation	-1
+IPv4	Voice over IP	0
+IPv4	IP fragmentation	0
+IPv4	DSL modem	0
+IPv6	Network packet	0
+IPv6	Internet protocol	0
+IPv6	Internet protocol suite	0
+IPv6	Routing Information Protocol	0
+IPv6	Internet Protocol	-1
+IPv6	OSI model	0
+IPv6	Transmission Control Protocol	0
+IPv6	User Datagram Protocol	0
+IPv6	Link layer	-1
+IPv6	MAC address	0
+IPv6	Open Shortest Path First	0
+IPv6	Interior gateway protocol	0
+IPv6	Multicast	-1
+IPv6	Ethernet frame	0
+IPv6	Internet Group Management Protocol	0
+IPv6	IPv6 packet	0
+IPv6	4G	0
+IPv6	Connection-oriented communication	0
+IPv6	DNS root zone	0
+IPv6	Domain name	0
+IPv6	Classless Inter-Domain Routing	0
+IPv6	IP fragmentation	0
+IPv6	File Transfer Protocol	0
+Web server	Transmission Control Protocol	0
+Web server	Web page	0
+Web server	Denial-of-service attack	0
+Web server	HTML	0
+Web server	Web cache	0
+Web server	Client-server model	0
+Web server	HTTP cookie	0
+Web server	User agent	0
+Web server	Encapsulation (networking)	0
+Web server	Internet	0
+Web server	Domain name	0
+Web server	IP address	0
+Web server	Client (computing)	0
+Web server	Email	0
+Web server	Server (computing)	-1
+Web server	Router (computing)	0
+Web server	Inter-process communication	0
+Web server	Wi-Fi	0
+Web server	Hypertext Transfer Protocol	0
+Web server	Local area network	0
+Web server	Computer worm	0
+Web page	File Transfer Protocol	0
+Web page	Domain name	0
+Web page	HTTP cookie	0
+Denial-of-service attack	Network security	0
+Denial-of-service attack	Computer network	0
+Denial-of-service attack	Routing	0
+Denial-of-service attack	Network congestion	0
+Denial-of-service attack	Computer virus	0
+Denial-of-service attack	Internet protocol	0
+Denial-of-service attack	Voice over IP	0
+Denial-of-service attack	IP address	0
+Denial-of-service attack	Client (computing)	0
+Denial-of-service attack	IP address spoofing	0
+Denial-of-service attack	Attack (computing)	-1
+Denial-of-service attack	IPv6 packet	0
+Denial-of-service attack	Transmission Control Protocol	0
+Denial-of-service attack	Hypertext Transfer Protocol	0
+Denial-of-service attack	Network service	0
+Denial-of-service attack	Internet	0
+Denial-of-service attack	Local area network	0
+Denial-of-service attack	Threat (computer)	0
+Computer worm	Network security	0
+Computer worm	Computer network	0
+Computer worm	Denial-of-service attack	0
+Computer worm	Router (computing)	0
+Computer worm	IP address	0
+Computer worm	Email	0
+Computer worm	Computer virus	0
+Computer worm	Spyware	0
+Client-server model	Web page	0
+Client-server model	Application programming interface	0
+Client-server model	Application layer	0
+Client-server model	Internet protocol suite	0
+Client-server model	File Transfer Protocol	0
+Client-server model	Web application	0
+Client-server model	Inter-process communication	0
+Client-server model	Network service	0
+HTTP cookie	Hypertext Transfer Protocol	-1
+Encapsulation (networking)	Internet protocol suite	0
+Encapsulation (networking)	Internet protocol	0
+Encapsulation (networking)	Transmission Control Protocol	0
+Encapsulation (networking)	Ethernet frame	0
+Network address translation	Server (computing)	0
+Network address translation	Router (computing)	0
+Network address translation	Internet protocol	0
+Network address translation	IP address	-1
+Network address translation	Internet Protocol	-1
+Network address translation	Transmission Control Protocol	1
+Network address translation	User Datagram Protocol	0
+Network address translation	Load balancing (computing)	1
+Network address translation	Internet Control Message Protocol	1
+Network address translation	BitTorrent	0
+Network address translation	Routing	-1
+Network address translation	Peer-to-peer	0
+Network address translation	Internet service provider	0
+Network address translation	Processing delay	0
+Network address translation	Datagram	0
+Network address translation	4G	0
+Network address translation	Application layer	0
+Network address translation	Proxy server	0
+Network address translation	Wi-Fi	0
+Network address translation	IPv4	1
+Network address translation	IPv6	0
+Network address translation	Voice over IP	0
+Network address translation	Stateless protocol	0
+Network address translation	IP address spoofing	0
+Network address translation	Subnetwork	0
+Network address translation	IP fragmentation	0
+Network address translation	Home network	0
+Network address translation	DSL modem	0
+Network address translation	File Transfer Protocol	0
+Voice over IP	Time-division multiplexing	0
+Voice over IP	Network congestion	0
+Voice over IP	Transmission Control Protocol	0
+Voice over IP	User Datagram Protocol	0
+Voice over IP	Asynchronous Transfer Mode	0
+Voice over IP	Network service	0
+Voice over IP	Virtual LAN	0
+Voice over IP	Local area network	0
+Stateless protocol	Hypertext Transfer Protocol	0
+Stateless protocol	HTTP cookie	1
+Stateless protocol	Internet protocol	0
+Stateless protocol	File Transfer Protocol	0
+Stateless protocol	Transmission Control Protocol	1
+Stateless protocol	Communications protocol	1
+IP address spoofing	Internet Protocol	-1
+IP address spoofing	Internet protocol	0
+IP address spoofing	Transmission Control Protocol	0
+IP address spoofing	Router (computing)	0
+Subnetwork	IPv6	0
+Subnetwork	Router (computing)	0
+Subnetwork	Internet protocol	0
+Subnetwork	Routing Information Protocol	0
+Subnetwork	Open Shortest Path First	0
+Subnetwork	Virtual LAN	0
+Subnetwork	Classless Inter-Domain Routing	0
+Subnetwork	IPv4	0
+IP fragmentation	Internet protocol	0
+IP fragmentation	Transmission Control Protocol	0
+Home network	Physical layer	0
+Home network	Twisted pair	0
+Home network	Bluetooth	0
+Home network	IP address	0
+Home network	DSL modem	0
+Home network	Network layer	0
+Home network	Data link layer	0
+Home network	Dynamic Host Configuration Protocol	0
+Home network	Wi-Fi	0
+Home network	Internet access	0
+Home network	Local area network	0
+DSL modem	IP address	-1
+Minimum spanning tree	Computer network	0
+packet forwarding	File Transfer Protocol	0
+packet forwarding	Multicast	-1
+packet forwarding	Router (computing)	0
+packet forwarding	Wireless network	0
+Post Office Protocol	Internet Message Access Protocol	0
+Post Office Protocol	Application layer	0
+Post Office Protocol	Simple Mail Transfer Protocol	0
+Post Office Protocol	Internet protocol suite	0
+Post Office Protocol	Port (computer networking)	0
+Protocol Independent Multicast	Multicast	0
+Protocol Independent Multicast	Routing	-1
+Protocol Independent Multicast	Internet protocol	0
+Protocol Independent Multicast	IP multicast	0
+Protocol Independent Multicast	Internet Group Management Protocol	0
+Protocol Independent Multicast	Subnetwork	0
+Protocol Independent Multicast	Internet Protocol	0
+Protocol Independent Multicast	Routing protocol	0
+Protocol Independent Multicast	packet forwarding	0
+Protocol Independent Multicast	Router (computing)	0
+Protocol Independent Multicast	Open Shortest Path First	0
+Active queue management	Random early detection	-1
+Active queue management	Network congestion	1
+Peer-to-peer file sharing	Computer virus	0
+Peer-to-peer file sharing	Spyware	0
+Communications protocol	Slow-start	0
+Communications protocol	Router (computing)	0
+Communications protocol	Network congestion	0
+Communications protocol	Internet protocol	0
+Communications protocol	Application programming interface	0
+Communications protocol	Internet protocol suite	0
+Communications protocol	Internet Protocol	1
+Communications protocol	OSI model	0
+Communications protocol	Transmission Control Protocol	1
+Communications protocol	User Datagram Protocol	0
+Communications protocol	Link layer	0
+Communications protocol	Inter-process communication	0
+Communications protocol	Internet Message Access Protocol	0
+Communications protocol	Internet Group Management Protocol	1
+Communications protocol	Asynchronous Transfer Mode	0
+Communications protocol	Connection-oriented communication	0
+Communications protocol	Negative-acknowledge character	0
+Communications protocol	Application layer	0
+Communications protocol	Hypertext Transfer Protocol	1
+Communications protocol	Network service	0
+Communications protocol	IPv6	0
+Communications protocol	Client-server model	0
+Communications protocol	File Transfer Protocol	0
+Communications protocol	Post Office Protocol	0
+Computer virus	Spyware	0
+Internet access	IEEE 802.11	0
+Internet access	Network congestion	0
+Internet access	Cable Internet access	0
+Internet access	Voice over IP	0
+Internet access	Digital subscriber line	0
+Internet access	Network interface controller	0
+Internet access	Wireless network	0
+Internet access	Asynchronous Transfer Mode	0
+Internet access	Wi-Fi	0
+Internet access	4G	0
+Internet access	Local area network	0
+File transfer	File Transfer Protocol	1
+File transfer	Transmission Control Protocol	0
+File transfer	Peer-to-peer file sharing	0
+Cellular network	Voice over IP	0
+Slow-start	Round-trip delay time	-1
+Slow-start	Packet loss	-1
+Slow-start	TCP congestion-avoidance algorithm	1
+Slow-start	Network congestion	-1
+Reliability (computer networking)	ALOHAnet	0
+Reliability (computer networking)	Multicast	-1
+Reliability (computer networking)	Virtual circuit	0
+Reliability (computer networking)	OSI model	0
+Reliability (computer networking)	Transport layer	0
+Reliability (computer networking)	Internet protocol	0
+Reliability (computer networking)	IP address	0
+Reliability (computer networking)	Bit error rate	0
+Reliability (computer networking)	Routing Information Protocol	1
+Reliability (computer networking)	Internet Protocol	0
+Reliability (computer networking)	Connection-oriented communication	1
+Reliability (computer networking)	Transmission Control Protocol	0
+Reliability (computer networking)	User Datagram Protocol	0
+Reliability (computer networking)	Load balancing (computing)	1
+Reliability (computer networking)	Ethernet	0
+Reliability (computer networking)	Asynchronous Transfer Mode	0
+Reliability (computer networking)	Datagram	0
+Reliability (computer networking)	Error detection and correction	1
+Reliability (computer networking)	Internet	0
+Routing Information Protocol	Reliability (computer networking)	-1
+Routing Information Protocol	Network delay	-1
+Routing Information Protocol	Open Shortest Path First	0
+Routing Information Protocol	Routing protocol	-1
+Routing Information Protocol	Link-state routing protocol	-1
+Bit error rate	Computer network	0
+Bit error rate	Code division multiple access	1
+Bit error rate	Network packet	1
+Bit error rate	Interference (communication)	0
+Bit error rate	Forward error correction	1
+Bit error rate	Multipath propagation	0
+Error detection and correction	IPv6	0
+Error detection and correction	Reliability (computer networking)	-1
+Error detection and correction	Automatic repeat request	0
+Error detection and correction	Network congestion	0
+Error detection and correction	OSI model	0
+Error detection and correction	Transmission Control Protocol	0
+Error detection and correction	User Datagram Protocol	0
+Error detection and correction	Link layer	0
+Error detection and correction	Data link layer	0
+Error detection and correction	Forward error correction	1
+Error detection and correction	Channel (communications)	0
+Error detection and correction	IPv4	0
+network delay	Processing delay	0
+network delay	Network congestion	0
+Protocol stack	IEEE 802.11	0
+Protocol stack	Internet protocol	0
+Protocol stack	Application layer	0
+Protocol stack	Internet Protocol	1
+Protocol stack	Transmission Control Protocol	0
+Protocol stack	File transfer	0
+Routing control plane	Multicast	0
+Routing control plane	Routing	-1
+Routing control plane	Network packet	0
+Routing control plane	Border Gateway Protocol	0
+Routing control plane	Subnetwork	0
+Routing control plane	Ethernet	0
+Routing control plane	Protocol Independent Multicast	0
+Routing control plane	Router (computing)	0
+Routing control plane	Open Shortest Path First	0
+Routing control plane	Virtual LAN	0
+Routing control plane	Forwarding information base	-1
+Open Shortest Path First	Routing protocol	-1
+Open Shortest Path First	Multicast	-1
+Open Shortest Path First	Link-state routing protocol	-1
+Virtual LAN	Asynchronous Transfer Mode	0
+Virtual LAN	Multicast	0
+Virtual LAN	Local area network	0
+Virtual LAN	Network congestion	0
+Forwarding information base	Routing control plane	1
+Forwarding information base	Reverse path forwarding	1
+Internet exchange point	Internet	0
+Internet exchange point	Border Gateway Protocol	0
+Internet exchange point	Internet service provider	0
+Internet exchange point	Ethernet	0
+Internet exchange point	Asynchronous Transfer Mode	0
+Internet exchange point	Data center	0
+Internet exchange point	Virtual LAN	0
+Distance-vector routing protocol	Routing protocol	-1
+Distance-vector routing protocol	Routing Information Protocol	1
+Distance-vector routing protocol	Link-state routing protocol	-1
+Distance-vector routing protocol	Border Gateway Protocol	1
+Ethernet frame	Carrier sense multiple access with collision detection	0
+Go-Back-N ARQ	Flow control (data)	0
+Go-Back-N ARQ	Error detection and correction	0
+Go-Back-N ARQ	Automatic repeat request	-1
+Go-Back-N ARQ	Selective Repeat ARQ	0
+Automatic repeat request	Connection-oriented communication	0
+Automatic repeat request	Local area network	0
+Selective Repeat ARQ	Automatic repeat request	-1
+Selective Repeat ARQ	Flow control (data)	0
+Selective Repeat ARQ	Internet protocol	0
+Selective Repeat ARQ	Error detection and correction	0
+Selective Repeat ARQ	Internet Protocol	0
+Selective Repeat ARQ	Transmission Control Protocol	0
+Selective Repeat ARQ	Local area network	0
+Flow control (data)	Physical layer	0
+Flow control (data)	Network congestion	-1
+Flow control (data)	Traffic contract	0
+Flow control (data)	Transport layer	1
+Flow control (data)	Handshaking	0
+Flow control (data)	OSI model	0
+Flow control (data)	Transmission Control Protocol	1
+Flow control (data)	Data link layer	0
+Flow control (data)	Asynchronous Transfer Mode	0
+Internet Message Access Protocol	Port (computer networking)	0
+Internet Message Access Protocol	Application layer	0
+Packet loss	Slow-start	1
+Packet loss	Transmission Control Protocol	3
+Packet loss	Computer network	0
+Packet loss	Router (computing)	0
+Packet loss	Store and forward	0
+Packet loss	Network congestion	0
+Packet loss	Network packet	-1
+Packet loss	Internet protocol	0
+Packet loss	Voice over IP	0
+Packet loss	IP fragmentation	0
+Packet loss	Internet Protocol	0
+Packet loss	FIFO (computing and electronics)	0
+Packet loss	Best-effort delivery	1
+Packet loss	User Datagram Protocol	0
+Packet loss	Queuing delay	0
+Packet loss	End-to-end delay	0
+Packet loss	Channel (communications)	0
+IP multicast	Internet Protocol	-1
+IP multicast	Multicast	-1
+IP multicast	Transmission Control Protocol	0
+IP multicast	Internet protocol suite	0
+Internet Group Management Protocol	Router (computing)	0
+Internet Group Management Protocol	Internet protocol	0
+Internet Group Management Protocol	IP multicast	0
+Internet Group Management Protocol	Internet protocol suite	0
+Internet Group Management Protocol	OSI model	0
+Internet Group Management Protocol	Network layer	0
+Internet Group Management Protocol	Internet Control Message Protocol	0
+Internet Group Management Protocol	Communications protocol	-1
+Crossbar switch	Asynchronous Transfer Mode	0
+Crossbar switch	Circuit switching	0
+Random early detection	Router (computing)	0
+Random early detection	Transmission Control Protocol	0
+Random early detection	Network scheduler	0
+Random early detection	Active queue management	1
+Random early detection	Network congestion	0
+Parity bit	Handshaking	0
+Parity bit	Network packet	0
+Parity bit	Data link layer	0
+Parity bit	Error detection and correction	0
+Handshaking	User Datagram Protocol	0
+Handshaking	HTTP persistent connection	1
+Attack (computing)	Network security	0
+Attack (computing)	Threat (computer)	0
+IPv6 packet	Transmission Control Protocol	0
+IPv6 packet	User Datagram Protocol	0
+IPv6 packet	Link layer	-1
+End-to-end delay	Round-trip delay time	-1
+End-to-end delay	Computer network	-1
+End-to-end delay	Queuing delay	-1
+End-to-end delay	Processing delay	0
+End-to-end delay	Transmission delay	-1
+Queuing delay	Network delay	1
+Queuing delay	Router (computing)	0
+Queuing delay	Network congestion	0
+Queuing delay	Traffic intensity	-1
+Queuing delay	Transmission delay	0
+Queuing delay	End-to-end delay	1
+Queuing delay	Processing delay	0
+Queuing delay	Asynchronous Transfer Mode	0
+physical media	Broadband	0
+physical media	Twisted pair	0
+physical media	Local area network	0
+Address Resolution Protocol	IPv6	0
+Address Resolution Protocol	IEEE 802.11	0
+Address Resolution Protocol	Link layer	-2
+Address Resolution Protocol	Ethernet frame	0
+Address Resolution Protocol	Virtual circuit	0
+Address Resolution Protocol	OSI model	0
+Address Resolution Protocol	Internet protocol suite	0
+Address Resolution Protocol	IP address	0
+Address Resolution Protocol	Network interface controller	0
+Address Resolution Protocol	Network layer	0
+Address Resolution Protocol	Data link layer	0
+Address Resolution Protocol	Dynamic Host Configuration Protocol	0
+Address Resolution Protocol	Asynchronous Transfer Mode	0
+Address Resolution Protocol	Router (computing)	0
+Address Resolution Protocol	MAC address	1
+Address Resolution Protocol	Local area network	0
+Address Resolution Protocol	IPv4	0
+Round-trip delay time	Slow-start	1
+Round-trip delay time	Network packet	-1
+Round-trip delay time	End-to-end delay	1
+Round-trip delay time	fast retransmit	1
+Round-trip delay time	TCP congestion-avoidance algorithm	1
+Presentation layer	Session layer	0
+Presentation layer	Application layer	0
+Presentation layer	Internet protocol suite	0
+Presentation layer	Transport layer	0
+Presentation layer	OSI model	-1
+Presentation layer	Network layer	0
+Presentation layer	Hypertext Transfer Protocol	0
+Interference (communication)	IEEE 802.11	0
+Interference (communication)	Channel (communications)	0
+Forward error correction	Transmission Control Protocol	0
+Forward error correction	IEEE 802.11	0
+Forward error correction	Multicast	0
+Forward error correction	Data link layer	0
+Forward error correction	Automatic repeat request	0
+Timeout (computing)	Communications protocol	0
+Timeout (computing)	Post Office Protocol	0
+Timeout (computing)	TCP congestion-avoidance algorithm	0
+Timeout (computing)	Automatic repeat request	0
+Timeout (computing)	Error detection and correction	0
+TCP congestion-avoidance algorithm	Round-trip delay time	-1
+TCP congestion-avoidance algorithm	Slow-start	-1
+TCP congestion-avoidance algorithm	Transmission Control Protocol	-1
+TCP congestion-avoidance algorithm	Network congestion	0
+Threat (computer)	Interference (communication)	0
+Threat (computer)	Computer virus	0
+Network security	IPv6	0
+Network security	Virtual LAN	0
+Session layer	Application layer	0
+Network delay	Transmission delay	-1
+Network delay	Network congestion	-1
+Network delay	Routing Information Protocol	1
+Network delay	Channel (communications)	0
+Network delay	Queuing delay	-1
+Retransmission (data networks)	Transmission Control Protocol	0
+Retransmission (data networks)	Automatic repeat request	0
+fast retransmit	Round-trip delay time	-1
+fast retransmit	Slow-start	0
+fast retransmit	Transmission Control Protocol	0
+Reverse path forwarding	Router (computing)	0
+Reverse path forwarding	Multicast	-1
+Reverse path forwarding	Routing	-1
+Reverse path forwarding	IP address spoofing	0
+Reverse path forwarding	Forwarding information base	-1
+Packet forwarding	Multicast	0
+Core network	Cable Internet access	0
+Core network	Network layer	0
+Traffic intensity	Queuing delay	1
+Traffic contract	Asynchronous Transfer Mode	0
+Negative-acknowledge character	Retransmission (data networks)	0
+Security service (telecommunication)	Network security	1
+Security service (telecommunication)	Attack (computing)	0
+Security service (telecommunication)	Encapsulation (networking)	0
+Security service (telecommunication)	OSI model	-3
+Security service (telecommunication)	Protocol stack	1
+Security service (telecommunication)	Threat (computer)	0
+HTTP persistent connection	Handshaking	-1
+HTTP persistent connection	Web page	0
+HTTP persistent connection	Transmission Control Protocol	0
+HTTP persistent connection	Network congestion	-1
+List of HTTP header fields	Port (computer networking)	0
+List of HTTP header fields	Hypertext Transfer Protocol	1
+List of HTTP header fields	HTTP cookie	0

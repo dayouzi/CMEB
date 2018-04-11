@@ -1,0 +1,299 @@
+Fibonacci heap	Priority queue	0
+Fibonacci heap	pseudocode	0
+Fibonacci heap	Heap (data structure)	-1
+Fibonacci heap	Queue	0
+Fibonacci heap	Tree (data structure)	0
+Fibonacci heap	Big O notation	0
+Fibonacci heap	Dijkstra's algorithm	0
+Priority queue	Stack (abstract data type)	0
+Priority queue	Queue	-1
+Priority queue	Big O notation	0
+Priority queue	selection sort	0
+Priority queue	Adjacency list	0
+Priority queue	search tree	0
+Priority queue	Queue (abstract data type)	-1
+Priority queue	Minimum spanning tree	0
+pseudocode	Linked list	0
+Heap (data structure)	Stack (abstract data type)	0
+Heap (data structure)	Fibonacci heap	0
+Heap (data structure)	Priority queue	0
+Heap (data structure)	Pairing heap	1
+Heap (data structure)	Queue	0
+Heap (data structure)	Tree (data structure)	-1
+Heap (data structure)	Binary heap	1
+Heap (data structure)	Linked list	0
+Heap (data structure)	Sorting algorithm	0
+Heap (data structure)	Selection algorithm	0
+Heap (data structure)	search tree	0
+Heap (data structure)	Dijkstra's algorithm	0
+Heap (data structure)	Binary search tree	0
+Queue	Priority queue	1
+Tree (data structure)	Binary heap	0
+Tree (data structure)	tree traversal	0
+Tree (data structure)	Heap (data structure)	0
+Tree (data structure)	Adjacency list	0
+Tree (data structure)	Breadth-first search	0
+Tree (data structure)	Directed graph	0
+Tree (data structure)	depth-first search	0
+Tree (data structure)	search tree	1
+Tree (data structure)	Binary search tree	1
+Big O notation	selection sort	0
+Big O notation	Quicksort	0
+Big O notation	Sorting algorithm	0
+Big O notation	Dynamic programming	0
+Big O notation	Analysis of algorithms	1
+Big O notation	Worst-case execution time	0
+Big O notation	lookup table	0
+Graph (abstract data type)	Adjacency list	0
+Graph (abstract data type)	Breadth-first search	0
+Graph (abstract data type)	Directed graph	1
+Graph (abstract data type)	adjacency matrix	0
+Graph (abstract data type)	time complexity	0
+Graph (abstract data type)	depth-first search	0
+Graph (abstract data type)	Graph traversal	1
+Graph (abstract data type)	dense graph	1
+Graph (abstract data type)	lattice graph	1
+Adjacency list	Breadth-first search	0
+Adjacency list	tree traversal	0
+Adjacency list	adjacency matrix	1
+Breadth-first search	Stack (abstract data type)	0
+Breadth-first search	tree traversal	0
+Breadth-first search	Queue	0
+Breadth-first search	time complexity	0
+Breadth-first search	depth-first search	0
+Breadth-first search	Graph traversal	0
+Breadth-first search	search tree	0
+Directed graph	Graph (abstract data type)	-1
+Directed graph	Directed acyclic graph	1
+adjacency matrix	Adjacency list	-1
+adjacency matrix	Breadth-first search	0
+adjacency matrix	Directed graph	0
+adjacency matrix	Big O notation	0
+time complexity	Randomized algorithm	0
+time complexity	Priority queue	0
+time complexity	Big O notation	0
+time complexity	Merge sort	0
+time complexity	Quicksort	0
+time complexity	Sorting algorithm	0
+time complexity	Dynamic programming	0
+time complexity	recurrence relation	0
+time complexity	Steiner tree problem	0
+time complexity	Linear programming	0
+time complexity	Analysis of algorithms	0
+time complexity	Binary search tree	0
+depth-first search	pseudocode	0
+depth-first search	Queue	0
+depth-first search	Directed acyclic graph	0
+depth-first search	time complexity	0
+depth-first search	Graph traversal	0
+depth-first search	Analysis of algorithms	0
+depth-first search	tree traversal	0
+depth-first search	search tree	0
+Graph traversal	Queue	0
+Graph traversal	Graph (abstract data type)	-1
+Graph traversal	depth-first search	-1
+Graph traversal	dense graph	0
+Graph traversal	Greedy algorithm	0
+Graph traversal	Travelling salesman problem	0
+dense graph	Graph (abstract data type)	-1
+lattice graph	Graph (abstract data type)	-1
+Kruskal's algorithm	Greedy algorithm	-1
+Kruskal's algorithm	Dijkstra's algorithm	0
+Kruskal's algorithm	pseudocode	0
+Kruskal's algorithm	Minimum spanning tree	-1
+Greedy algorithm	Kruskal's algorithm	0
+Greedy algorithm	Hash table	0
+Minimum spanning tree	Kruskal's algorithm	0
+Minimum spanning tree	Greedy algorithm	0
+Minimum spanning tree	Shortest-path tree	0
+Hash table	Selection algorithm	0
+Hash table	Big O notation	0
+Hash table	Adjacency list	0
+Hash table	Hash function	-1
+Hash table	search tree	0
+Hash table	Associative array	0
+Hash table	Universal hashing	1
+Hash table	Linear hashing	1
+Hash table	Perfect hash function	-1
+Hash table	Linear probing	0
+Hash function	Randomized algorithm	0
+Hash function	Big O notation	0
+Hash function	Hash table	0
+Hash function	Universal hashing	0
+Hash function	Perfect hash function	0
+Hash function	lookup table	0
+search tree	Tree (data structure)	-1
+search tree	Array data type	0
+search tree	time complexity	0
+search tree	Finger search	0
+search tree	Binary search tree	0
+Associative array	Binary search tree	0
+Associative array	Hash function	0
+Associative array	Collection (abstract data type)	-1
+Associative array	search tree	0
+Universal hashing	Randomized algorithm	0
+Universal hashing	Linear probing	0
+Universal hashing	Hash table	-1
+Universal hashing	Hash function	-1
+Linear hashing	Hash table	-1
+Linear hashing	Hash function	0
+Perfect hash function	Universal hashing	0
+Perfect hash function	Randomized algorithm	0
+Perfect hash function	Hash table	0
+Perfect hash function	Hash function	-1
+Perfect hash function	lookup table	0
+Linear probing	Hash function	0
+Binary search tree	Binary heap	1
+Binary search tree	Priority queue	0
+Binary search tree	Queue	0
+Binary search tree	Tree (data structure)	-1
+Binary search tree	Big O notation	0
+Binary search tree	Quicksort	0
+Binary search tree	Sorting algorithm	0
+Binary search tree	Hash table	0
+Binary search tree	Finger search	0
+Binary search tree	lookup table	0
+Finger search	Linked list	0
+Finger search	Binary search tree	-1
+Finger search	search tree	-1
+lookup table	Associative array	0
+lookup table	Linked list	0
+lookup table	Hash function	-1
+Stack (abstract data type)	pseudocode	0
+Stack (abstract data type)	Queue	0
+Binary heap	Priority queue	0
+Binary heap	pseudocode	0
+Binary heap	Heap (data structure)	-1
+Binary heap	Queue	0
+Binary heap	Big O notation	0
+Binary heap	time complexity	0
+Binary heap	Binary search tree	-1
+tree traversal	Stack (abstract data type)	0
+tree traversal	pseudocode	0
+tree traversal	Queue	0
+tree traversal	Tree (data structure)	-1
+tree traversal	Breadth-first search	-1
+tree traversal	depth-first search	-1
+tree traversal	Graph traversal	0
+tree traversal	search tree	0
+tree traversal	Binary search tree	0
+Partition of a set	disjoint sets	-1
+disjoint sets	Partition of a set	0
+local search (optimization)	approximation algorithm	0
+local search (optimization)	Simulated annealing	0
+local search (optimization)	hill climbing	1
+hill climbing	pseudocode	0
+hill climbing	Simulated annealing	0
+hill climbing	Travelling salesman problem	0
+hill climbing	local search (optimization)	-1
+hill climbing	Linear programming	0
+hill climbing	Greedy algorithm	0
+Merge sort	pseudocode	0
+Merge sort	Big O notation	0
+Merge sort	selection sort	0
+Merge sort	Quicksort	0
+Merge sort	external sorting	0
+Merge sort	Sorting algorithm	-1
+selection sort	Heap (data structure)	0
+selection sort	Selection algorithm	0
+selection sort	pseudocode	0
+selection sort	Sorting algorithm	-1
+selection sort	time complexity	0
+Quicksort	Linked list	0
+Quicksort	Selection algorithm	0
+Quicksort	pseudocode	0
+Quicksort	selection sort	0
+Quicksort	Sorting algorithm	-1
+Quicksort	recurrence relation	0
+Quicksort	Hash table	0
+Quicksort	search tree	0
+external sorting	Quicksort	0
+external sorting	Sorting algorithm	-1
+external sorting	Big O notation	0
+Sorting algorithm	Priority queue	0
+Sorting algorithm	Tree (data structure)	0
+Sorting algorithm	Merge sort	0
+Sorting algorithm	selection sort	0
+Sorting algorithm	Quicksort	1
+Sorting algorithm	external sorting	0
+Sorting algorithm	Selection algorithm	0
+Sorting algorithm	Array data type	0
+recurrence relation	Analysis of algorithms	0
+recurrence relation	Dynamic programming	-1
+Steiner tree problem	Minimum spanning tree	0
+Analysis of algorithms	Merge sort	0
+Analysis of algorithms	Quicksort	0
+Analysis of algorithms	pseudocode	0
+Analysis of algorithms	time complexity	-1
+Analysis of algorithms	Big O notation	-1
+Worst-case execution time	Big O notation	-1
+Shortest path problem	Fibonacci heap	0
+Shortest path problem	Floyd-Warshall algorithm	1
+Shortest path problem	Binary heap	0
+Shortest path problem	Breadth-first search	0
+Shortest path problem	Linear programming	0
+Shortest path problem	Dijkstra's algorithm	1
+Integer programming	Linear programming	0
+Integer programming	Simulated annealing	0
+Integer programming	hill climbing	0
+Monotone priority queue	Analysis of algorithms	0
+Monotone priority queue	Priority queue	0
+Monotone priority queue	Dijkstra's algorithm	0
+Monotone priority queue	Heap (data structure)	0
+Monotone priority queue	Queue	0
+Collection (abstract data type)	Associative array	0
+Bellman-Ford algorithm	dense graph	0
+Bellman-Ford algorithm	Graph (mathematics)	-1
+Bellman-Ford algorithm	Greedy algorithm	0
+Bellman-Ford algorithm	Big O notation	0
+Graph (mathematics)	Bellman-Ford algorithm	0
+Queue (abstract data type)	Priority queue	0
+Shortest-path tree	Breadth-first search	0
+Shortest-path tree	Shortest path problem	0
+Shortest-path tree	search tree	0
+Dijkstra's algorithm	Graph (abstract data type)	-1
+Dijkstra's algorithm	Shortest-path tree	0
+Dijkstra's algorithm	Priority queue	0
+Dijkstra's algorithm	Dynamic programming	0
+Dijkstra's algorithm	Bellman-Ford algorithm	0
+Prim's algorithm	Kruskal's algorithm	0
+Prim's algorithm	Greedy algorithm	0
+Prim's algorithm	Heap (data structure)	0
+Prim's algorithm	Priority queue	0
+Bubble sort	pseudocode	0
+Bubble sort	Big O notation	1
+Bubble sort	selection sort	0
+Bubble sort	Quicksort	0
+Bubble sort	Sorting algorithm	1
+Bubble sort	time complexity	1
+Array data type	Associative array	0
+Array data type	Hash table	0
+Finger search tree	Finger search	1
+Linked list	Stack (abstract data type)	0
+Linked list	Priority queue	1
+Linked list	tree traversal	0
+Linked list	Tree (data structure)	0
+Linked list	Merge sort	0
+Linked list	selection sort	0
+Linked list	Hash table	0
+Linked list	Associative array	0
+Linked list	Binary search tree	0
+Linked list	Array data type	0
+Randomized algorithm	Sorting algorithm	0
+Pairing heap	Priority queue	0
+Red-black tree	Linked list	0
+Red-black tree	Associative array	0
+Red-black tree	Binary search tree	1
+Travelling salesman problem	Big O notation	0
+Travelling salesman problem	Greedy algorithm	0
+Travelling salesman problem	Dynamic programming	0
+Travelling salesman problem	local search (optimization)	0
+Travelling salesman problem	time complexity	0
+Disjoint-set data structure	Kruskal's algorithm	0
+Disjoint-set data structure	disjoint sets	0
+P versus NP problem	time complexity	0
+approximation algorithm	Linear programming	0
+approximation algorithm	Greedy algorithm	0
+approximation algorithm	time complexity	0
+approximation algorithm	Steiner tree problem	0
+Sparse array	Array data type	0

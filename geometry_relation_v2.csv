@@ -1,0 +1,1305 @@
+slope	distance	0
+slope	angle	0
+slope	tangent line	0
+slope	Geometry	-1
+slope	perpendicular	1
+slope	Line (geometry)	0
+slope	grade (slope)	1
+slope	tangent	0
+slope	Secant line	0
+slope	parallel (geometry)	1
+slope	trigonometric function	0
+slope	Sine	0
+distance	altitude (triangle)	0
+distance	Cartesian coordinate system	0
+distance	parallel (geometry)	0
+distance	arc length	0
+angle	distance	0
+angle	tangent line	0
+angle	Geometry	-1
+angle	perpendicular	1
+angle	grade (slope)	1
+angle	tangent	0
+angle	trigonometric function	1
+angle	polyhedron	0
+angle	polygon	1
+angle	Tessellation	0
+angle	coordinate system	-1
+angle	trapezoids	1
+angle	Star polygon	0
+angle	Rhombus	1
+angle	vertex (geometry)	-1
+angle	rhombi	1
+angle	Cartesian coordinate system	0
+angle	Sphere	0
+angle	diameter	0
+angle	congruence (geometry)	1
+angle	quadrilateral	1
+angle	radius	1
+angle	cone	0
+angle	Circle	-1
+angle	triangle inequality	1
+angle	perpendicular bisector	1
+angle	equilateral triangles	1
+angle	angle bisector	1
+angle	Triangle	1
+angle	Arc (geometry)	1
+angle	skew lines	0
+angle	collinearity	0
+angle	angle bisector theorem	0
+angle	ray (geometry)	-1
+angle	Special right triangles	1
+angle	isosceles triangle	1
+angle	Pythagorean Theorem	1
+angle	transversal (geometry)	1
+angle	Space (mathematics)	0
+angle	two dimensions	0
+angle	rotation (mathematics)	1
+angle	parallelogram	1
+angle	rectangle	1
+angle	rotational symmetry	0
+angle	circumference	0
+angle	Square (geometry)	1
+angle	Interior angle	1
+angle	Kite (geometry)	1
+angle	right angles	1
+angle	Pythagorean triple	0
+angle	acute triangle	1
+angle	obtuse triangle	1
+angle	exterior angle	1
+angle	inverse trigonometric functions	1
+angle	Sine	1
+angle	acute and obtuse triangles	1
+angle	exterior angle theorem	1
+angle	Hexagon	1
+tangent line	tangent	-1
+tangent line	Hexagon	0
+tangent line	Geometry	-1
+tangent line	Cross section (geometry)	0
+tangent line	Line (geometry)	-1
+Geometry	slope	0
+Geometry	distance	0
+Geometry	angle	0
+Geometry	perpendicular	0
+Geometry	Line (geometry)	0
+Geometry	tangent	0
+Geometry	Secant line	0
+Geometry	parallel (geometry)	0
+Geometry	polyhedron	0
+Geometry	line segment	0
+Geometry	symmetry	0
+Geometry	Tessellation	0
+Geometry	coordinate system	0
+Geometry	rhombi	0
+Geometry	Sphere	0
+Geometry	congruence (geometry)	0
+Geometry	quadrilateral	0
+Geometry	Similarity (geometry)	0
+Geometry	radius	0
+Geometry	cone	1
+Geometry	Circle	0
+Geometry	triangle inequality	0
+Geometry	angle bisector	0
+Geometry	Triangle	0
+Geometry	right triangle	0
+Geometry	Arc (geometry)	0
+Geometry	midpoint	0
+Geometry	collinearity	0
+Geometry	ray (geometry)	0
+Geometry	Cylinder (geometry)	0
+Geometry	altitude (triangle)	0
+Geometry	isosceles triangle	1
+Geometry	Translation (geometry)	0
+Geometry	Plane (geometry)	1
+Geometry	parallelogram	0
+Geometry	circumference	0
+Geometry	Square (geometry)	0
+Geometry	Cross section (geometry)	1
+Geometry	edge (geometry)	0
+Geometry	right angles	0
+Geometry	inverse trigonometric functions	0
+Geometry	Face (geometry)	0
+Geometry	Hexagon	1
+Geometry	Nonagon	1
+Geometry	Octagon	1
+perpendicular	slope	-1
+perpendicular	distance	0
+perpendicular	angle	-1
+perpendicular	tangent line	0
+perpendicular	Geometry	-1
+perpendicular	Line (geometry)	-1
+perpendicular	tangent	0
+perpendicular	line segment	-1
+perpendicular	coordinate system	0
+perpendicular	trapezoids	0
+perpendicular	Rhombus	1
+perpendicular	vertex (geometry)	0
+perpendicular	Cartesian coordinate system	-1
+perpendicular	Pyramid (geometry)	0
+perpendicular	congruence (geometry)	0
+perpendicular	quadrilateral	-1
+perpendicular	cone	0
+perpendicular	perpendicular bisector	1
+perpendicular	right triangle	0
+perpendicular	skew lines	0
+perpendicular	ray (geometry)	0
+perpendicular	altitude (triangle)	0
+perpendicular	isosceles triangle	0
+perpendicular	Chord (geometry)	0
+perpendicular	two dimensions	0
+perpendicular	Plane (geometry)	0
+perpendicular	Cross section (geometry)	0
+perpendicular	Interior angle	0
+perpendicular	Kite (geometry)	0
+perpendicular	right angles	1
+perpendicular	acute triangle	0
+perpendicular	obtuse triangle	0
+perpendicular	acute and obtuse triangles	0
+perpendicular	Diagonal	0
+Line (geometry)	distance	0
+Line (geometry)	angle	0
+Line (geometry)	tangent line	1
+Line (geometry)	Geometry	-1
+Line (geometry)	perpendicular	1
+Line (geometry)	tangent	0
+Line (geometry)	Secant line	1
+Line (geometry)	parallel (geometry)	1
+Line (geometry)	line segment	1
+Line (geometry)	polygon	0
+Line (geometry)	Cartesian coordinate system	0
+Line (geometry)	Sphere	0
+Line (geometry)	Circle	0
+Line (geometry)	triangle inequality	0
+Line (geometry)	midpoint	0
+Line (geometry)	skew lines	1
+Line (geometry)	collinearity	1
+Line (geometry)	Convex polygon	0
+Line (geometry)	transversal (geometry)	1
+Line (geometry)	Plane (geometry)	-1
+Line (geometry)	Diagonal	1
+Line (geometry)	Hexagon	1
+grade (slope)	slope	-1
+grade (slope)	distance	0
+grade (slope)	angle	-1
+grade (slope)	Geometry	-1
+grade (slope)	tangent	1
+grade (slope)	Sine	0
+tangent	cone	0
+tangent	distance	0
+tangent	angle	-1
+tangent	tangent line	1
+tangent	Geometry	-1
+tangent	Cross section (geometry)	0
+tangent	grade (slope)	-1
+tangent	Kite (geometry)	0
+tangent	trigonometric function	-1
+tangent	acute triangle	1
+tangent	obtuse triangle	0
+tangent	inverse trigonometric functions	1
+tangent	Sine	0
+tangent	acute and obtuse triangles	0
+tangent	isosceles triangle	0
+tangent	arc length	0
+tangent	Pyramid (geometry)	0
+Secant line	tangent	0
+Secant line	Chord (geometry)	0
+Secant line	tangent line	0
+Secant line	Geometry	-1
+Secant line	Line (geometry)	-1
+parallel (geometry)	slope	-1
+parallel (geometry)	distance	-1
+parallel (geometry)	angle	0
+parallel (geometry)	Circle	0
+parallel (geometry)	Geometry	-1
+parallel (geometry)	perpendicular	0
+parallel (geometry)	rectangle	0
+parallel (geometry)	tangent	0
+parallel (geometry)	Line (geometry)	-1
+parallel (geometry)	skew lines	-1
+parallel (geometry)	transversal (geometry)	0
+parallel (geometry)	Sphere	0
+parallel (geometry)	Plane (geometry)	0
+parallel (geometry)	congruence (geometry)	0
+trigonometric function	Similarity (geometry)	0
+trigonometric function	radius	0
+trigonometric function	angle	-1
+trigonometric function	tangent line	0
+trigonometric function	Geometry	-1
+trigonometric function	tangent	1
+trigonometric function	Secant line	0
+trigonometric function	distance	0
+trigonometric function	inverse trigonometric functions	1
+trigonometric function	Sine	1
+trigonometric function	Triangle	-1
+trigonometric function	Pythagorean Theorem	1
+trigonometric function	Chord (geometry)	0
+trigonometric function	Circle	0
+trigonometric function	Cartesian coordinate system	0
+trigonometric function	Scalene Triangle	0
+trigonometric function	right triangle	0
+polyhedron	angle	-1
+polyhedron	Geometry	-1
+polyhedron	line segment	0
+polyhedron	polygon	-1
+polyhedron	symmetry	-1
+polyhedron	Tessellation	0
+polyhedron	coordinate system	-1
+polyhedron	trapezoids	0
+polyhedron	Point (geometry)	0
+polyhedron	Star polygon	0
+polyhedron	Rhombus	1
+polyhedron	prism (geometry)	0
+polyhedron	vertex (geometry)	-1
+polyhedron	rhombi	0
+polyhedron	Cartesian coordinate system	0
+polyhedron	Sphere	-1
+polyhedron	Reflection symmetry	0
+polyhedron	Pyramid (geometry)	0
+polyhedron	Cross section (geometry)	0
+polyhedron	edge (geometry)	-1
+polyhedron	Face (geometry)	-1
+polyhedron	Diagonal	0
+line segment	distance	0
+line segment	angle	0
+line segment	Geometry	-1
+line segment	perpendicular	1
+line segment	Line (geometry)	-1
+line segment	parallel (geometry)	0
+line segment	trigonometric function	0
+line segment	polygon	1
+line segment	Point (geometry)	-1
+line segment	prism (geometry)	0
+line segment	vertex (geometry)	0
+line segment	diameter	1
+line segment	congruence (geometry)	0
+line segment	quadrilateral	0
+line segment	Similarity (geometry)	0
+line segment	radius	1
+line segment	cone	0
+line segment	Circle	0
+line segment	triangle inequality	0
+line segment	perpendicular bisector	1
+line segment	equilateral triangles	0
+line segment	angle bisector	1
+line segment	Triangle	0
+line segment	right triangle	0
+line segment	Arc (geometry)	0
+line segment	midpoint	1
+line segment	skew lines	0
+line segment	collinearity	0
+line segment	angle bisector theorem	0
+line segment	ray (geometry)	1
+line segment	Cylinder (geometry)	0
+line segment	Special right triangles	0
+line segment	altitude (triangle)	1
+line segment	isosceles triangle	0
+line segment	arc length	0
+line segment	Convex polygon	1
+line segment	Chord (geometry)	-1
+line segment	Translation (geometry)	0
+line segment	Pythagorean Theorem	0
+line segment	Cross section (geometry)	0
+line segment	edge (geometry)	0
+polygon	angle	-1
+polygon	Geometry	-1
+polygon	tangent	0
+polygon	polyhedron	1
+polygon	line segment	-1
+polygon	symmetry	0
+polygon	Tessellation	1
+polygon	Star polygon	1
+polygon	Rhombus	1
+polygon	vertex (geometry)	-1
+polygon	Sphere	0
+polygon	Pyramid (geometry)	0
+polygon	congruence (geometry)	1
+polygon	quadrilateral	0
+polygon	equilateral triangles	0
+polygon	Triangle	1
+polygon	Special right triangles	0
+polygon	Convex polygon	1
+polygon	Space (mathematics)	0
+polygon	two dimensions	0
+polygon	parallelogram	1
+polygon	rotational symmetry	0
+polygon	Square (geometry)	0
+polygon	Cross section (geometry)	0
+polygon	edge (geometry)	-1
+polygon	exterior angle	0
+polygon	Face (geometry)	1
+polygon	concentric circle	0
+polygon	Hexagon	1
+polygon	Octagon	1
+symmetry	Geometry	-1
+symmetry	perpendicular	0
+symmetry	polyhedron	1
+symmetry	Tessellation	1
+symmetry	trapezoids	0
+symmetry	Star polygon	0
+symmetry	Rhombus	0
+symmetry	prism (geometry)	0
+symmetry	rhombi	0
+symmetry	Reflection symmetry	1
+symmetry	quadrilateral	0
+symmetry	Similarity (geometry)	0
+symmetry	Circle	0
+symmetry	perpendicular bisector	0
+symmetry	angle bisector	0
+symmetry	midpoint	1
+symmetry	altitude (triangle)	0
+symmetry	Translation (geometry)	1
+symmetry	rotation (mathematics)	1
+symmetry	Reflection (mathematics)	1
+symmetry	parallelogram	0
+symmetry	rectangle	1
+symmetry	Self-similarity	1
+symmetry	rotational symmetry	1
+symmetry	Scaling (geometry)	0
+Tessellation	Kite (geometry)	0
+Tessellation	polygon	-1
+Tessellation	symmetry	-1
+Tessellation	vertex (geometry)	-1
+Tessellation	Hexagon	0
+Tessellation	Sphere	0
+Tessellation	Plane (geometry)	0
+coordinate system	radius	0
+coordinate system	angle	1
+coordinate system	Geometry	-1
+coordinate system	Triangle	1
+coordinate system	right angles	0
+coordinate system	distance	0
+coordinate system	polyhedron	1
+coordinate system	Sine	0
+coordinate system	arc length	0
+coordinate system	Cartesian coordinate system	1
+coordinate system	Sphere	0
+coordinate system	Plane (geometry)	0
+trapezoids	parallelogram	-1
+trapezoids	Diagonal	0
+trapezoids	angle	-1
+trapezoids	Triangle	0
+Point (geometry)	tangent line	0
+Point (geometry)	Geometry	0
+Point (geometry)	Line (geometry)	0
+Point (geometry)	tangent	0
+Point (geometry)	Secant line	0
+Point (geometry)	line segment	1
+Point (geometry)	coordinate system	0
+Point (geometry)	vertex (geometry)	1
+Point (geometry)	Cartesian coordinate system	0
+Point (geometry)	Sphere	0
+Point (geometry)	congruence (geometry)	0
+Point (geometry)	Circle	0
+Point (geometry)	midpoint	1
+Point (geometry)	skew lines	0
+Point (geometry)	collinearity	0
+Point (geometry)	ray (geometry)	1
+Point (geometry)	arc length	0
+Point (geometry)	transversal (geometry)	1
+Point (geometry)	Space (mathematics)	0
+Point (geometry)	two dimensions	0
+Point (geometry)	Plane (geometry)	0
+Point (geometry)	rotation (mathematics)	0
+Star polygon	Decagon	0
+Star polygon	Octagon	0
+Star polygon	Geometry	-1
+Star polygon	polygon	-1
+Star polygon	Tessellation	0
+Star polygon	Hexagon	0
+Rhombus	parallelogram	-1
+Rhombus	quadrilateral	-1
+Rhombus	angle	-1
+Rhombus	Circle	0
+Rhombus	Geometry	-1
+Rhombus	trapezoids	0
+Rhombus	Interior angle	0
+Rhombus	tangent	0
+Rhombus	midpoint	0
+Rhombus	polyhedron	-1
+Rhombus	polygon	-1
+Rhombus	Sine	0
+Rhombus	cone	0
+Rhombus	Kite (geometry)	0
+Rhombus	rhombi	-1
+Rhombus	perpendicular	-1
+Rhombus	Internal and external angle	0
+Rhombus	rectangle	-1
+prism (geometry)	parallelogram	0
+prism (geometry)	rectangle	0
+prism (geometry)	distance	0
+prism (geometry)	Geometry	-1
+prism (geometry)	perpendicular	0
+prism (geometry)	parallel (geometry)	0
+prism (geometry)	polygon	0
+prism (geometry)	Cylinder (geometry)	0
+prism (geometry)	Cross section (geometry)	0
+prism (geometry)	Square (geometry)	0
+prism (geometry)	congruence (geometry)	0
+vertex (geometry)	angle	1
+vertex (geometry)	Geometry	0
+vertex (geometry)	polyhedron	1
+vertex (geometry)	polygon	1
+vertex (geometry)	Tessellation	1
+vertex (geometry)	Point (geometry)	-1
+vertex (geometry)	Star polygon	0
+vertex (geometry)	Sphere	0
+vertex (geometry)	Pyramid (geometry)	0
+vertex (geometry)	skew lines	0
+vertex (geometry)	altitude (triangle)	0
+vertex (geometry)	isosceles triangle	0
+vertex (geometry)	Convex polygon	0
+vertex (geometry)	Pythagorean Theorem	0
+vertex (geometry)	rectangle	0
+vertex (geometry)	acute triangle	0
+vertex (geometry)	obtuse triangle	0
+vertex (geometry)	acute and obtuse triangles	0
+vertex (geometry)	Face (geometry)	0
+vertex (geometry)	Diagonal	0
+vertex (geometry)	Hexagon	0
+vertex (geometry)	Scalene Triangle	0
+rhombi	angle	-1
+rhombi	Geometry	-1
+rhombi	perpendicular	0
+rhombi	tangent	0
+rhombi	polygon	0
+rhombi	Rhombus	0
+rhombi	congruence (geometry)	0
+rhombi	quadrilateral	-1
+rhombi	cone	0
+rhombi	Circle	0
+rhombi	Triangle	0
+rhombi	midpoint	0
+rhombi	Convex polygon	0
+rhombi	parallelogram	-1
+rhombi	rectangle	0
+rhombi	circumference	0
+rhombi	Square (geometry)	0
+rhombi	Interior angle	0
+rhombi	Kite (geometry)	0
+rhombi	Sine	0
+rhombi	Face (geometry)	0
+rhombi	Diagonal	0
+rhombi	Internal and external angle	0
+Cartesian coordinate system	coordinate system	-1
+Cartesian coordinate system	perpendicular	0
+Sphere	Circle	-1
+Sphere	polyhedron	0
+Reflection symmetry	distance	0
+Reflection symmetry	rotational symmetry	0
+Reflection symmetry	Circle	0
+Reflection symmetry	perpendicular	0
+Reflection symmetry	Kite (geometry)	0
+Reflection symmetry	symmetry	-1
+Reflection symmetry	trapezoids	0
+Reflection symmetry	Triangle	0
+Reflection symmetry	Reflection (mathematics)	-1
+Pyramid (geometry)	Sphere	0
+Pyramid (geometry)	Geometry	-1
+Pyramid (geometry)	Triangle	0
+Pyramid (geometry)	cone	0
+Pyramid (geometry)	isosceles triangle	0
+Pyramid (geometry)	Rhombus	0
+Pyramid (geometry)	Scaling (geometry)	0
+Pyramid (geometry)	Plane (geometry)	0
+diameter	parallelogram	0
+diameter	Decagon	0
+diameter	radius	-1
+diameter	tangent line	0
+diameter	Geometry	-1
+diameter	perpendicular bisector	0
+diameter	angle bisector	0
+diameter	tangent	0
+diameter	Pythagorean Theorem	0
+diameter	midpoint	0
+diameter	distance	0
+diameter	line segment	-1
+diameter	arc length	0
+diameter	Kite (geometry)	0
+diameter	Chord (geometry)	0
+diameter	circumference	0
+diameter	perpendicular	0
+diameter	Sphere	0
+diameter	Circle	1
+congruence (geometry)	Similarity (geometry)	-1
+congruence (geometry)	distance	0
+congruence (geometry)	angle	-1
+congruence (geometry)	Circle	0
+congruence (geometry)	Geometry	-1
+congruence (geometry)	Tessellation	0
+congruence (geometry)	edge (geometry)	0
+congruence (geometry)	Sine	0
+congruence (geometry)	polygon	-1
+congruence (geometry)	Space (mathematics)	0
+congruence (geometry)	coordinate system	0
+congruence (geometry)	Face (geometry)	0
+congruence (geometry)	Rhombus	0
+congruence (geometry)	Translation (geometry)	0
+congruence (geometry)	isosceles triangle	0
+congruence (geometry)	Cartesian coordinate system	0
+congruence (geometry)	Sphere	0
+congruence (geometry)	diameter	0
+congruence (geometry)	Reflection (mathematics)	0
+quadrilateral	distance	0
+quadrilateral	angle	-1
+quadrilateral	Geometry	-1
+quadrilateral	perpendicular	1
+quadrilateral	Line (geometry)	0
+quadrilateral	tangent	0
+quadrilateral	parallel (geometry)	0
+quadrilateral	polygon	-1
+quadrilateral	Tessellation	0
+quadrilateral	trapezoids	0
+quadrilateral	Rhombus	1
+quadrilateral	vertex (geometry)	0
+quadrilateral	rhombi	1
+quadrilateral	Reflection symmetry	0
+quadrilateral	Circle	0
+quadrilateral	triangle inequality	0
+quadrilateral	perpendicular bisector	0
+quadrilateral	angle bisector	0
+quadrilateral	midpoint	0
+quadrilateral	collinearity	0
+quadrilateral	Convex polygon	0
+quadrilateral	parallelogram	1
+quadrilateral	rectangle	1
+quadrilateral	Square (geometry)	1
+quadrilateral	Interior angle	0
+quadrilateral	edge (geometry)	0
+quadrilateral	Kite (geometry)	1
+quadrilateral	Edge (geometry)	0
+quadrilateral	Diagonal	0
+quadrilateral	Hexagon	0
+quadrilateral	Internal and external angle	0
+Similarity (geometry)	distance	0
+Similarity (geometry)	angle	0
+Similarity (geometry)	Geometry	-1
+Similarity (geometry)	polygon	0
+Similarity (geometry)	trapezoids	0
+Similarity (geometry)	Rhombus	0
+Similarity (geometry)	rhombi	0
+Similarity (geometry)	Sphere	0
+Similarity (geometry)	congruence (geometry)	1
+Similarity (geometry)	Circle	0
+Similarity (geometry)	equilateral triangles	0
+Similarity (geometry)	right triangle	0
+Similarity (geometry)	midpoint	0
+Similarity (geometry)	altitude (triangle)	0
+Similarity (geometry)	isosceles triangle	0
+Similarity (geometry)	Translation (geometry)	0
+Similarity (geometry)	Space (mathematics)	0
+Similarity (geometry)	rotation (mathematics)	0
+Similarity (geometry)	Reflection (mathematics)	0
+Similarity (geometry)	Self-similarity	1
+Similarity (geometry)	Square (geometry)	0
+Similarity (geometry)	scale factor	0
+Similarity (geometry)	Pythagorean triple	0
+Similarity (geometry)	Sine	0
+Similarity (geometry)	Scaling (geometry)	1
+Similarity (geometry)	Equilateral Triangle	0
+radius	distance	0
+radius	angle	-1
+radius	circumference	1
+radius	Geometry	-1
+radius	perpendicular	0
+radius	radius	0
+radius	line segment	-1
+radius	polygon	0
+radius	ray (geometry)	0
+radius	coordinate system	-1
+radius	cone	0
+radius	Sine	0
+radius	Circle	-1
+radius	Cartesian coordinate system	0
+radius	Sphere	0
+radius	diameter	1
+cone	Cartesian coordinate system	0
+cone	polygon	0
+Circle	slope	0
+Circle	distance	0
+Circle	angle	1
+Circle	tangent line	0
+Circle	Geometry	-1
+Circle	perpendicular	0
+Circle	tangent	0
+Circle	Secant line	0
+Circle	polygon	0
+Circle	coordinate system	0
+Circle	trapezoids	0
+Circle	vertex (geometry)	0
+Circle	Cartesian coordinate system	0
+Circle	Sphere	1
+Circle	diameter	-1
+Circle	radius	0
+Circle	cone	1
+Circle	perpendicular bisector	0
+Circle	Arc (geometry)	-1
+Circle	midpoint	1
+Circle	angle bisector theorem	0
+Circle	Cylinder (geometry)	0
+Circle	arc length	0
+Circle	Convex polygon	0
+Circle	Chord (geometry)	1
+Circle	Pythagorean Theorem	0
+Circle	two dimensions	0
+Circle	rotational symmetry	0
+Circle	circumference	1
+Circle	Cross section (geometry)	0
+Circle	Interior angle	0
+Circle	exterior angle	0
+Circle	Sine	0
+Circle	acute and obtuse triangles	0
+Circle	Diagonal	0
+Circle	Scalene Triangle	0
+Circle	Decagon	0
+triangle inequality	parallelogram	0
+triangle inequality	distance	0
+triangle inequality	angle	-1
+triangle inequality	Circle	0
+triangle inequality	Geometry	-1
+triangle inequality	Triangle	-1
+triangle inequality	right triangle	0
+triangle inequality	Pythagorean triple	0
+triangle inequality	polygon	0
+triangle inequality	exterior angle	0
+triangle inequality	cone	0
+triangle inequality	arc length	0
+triangle inequality	vertex (geometry)	0
+triangle inequality	Pythagorean Theorem	0
+triangle inequality	Sphere	0
+triangle inequality	Scalene Triangle	0
+perpendicular bisector	parallelogram	0
+perpendicular bisector	angle	-1
+perpendicular bisector	Convex polygon	0
+perpendicular bisector	Geometry	-1
+perpendicular bisector	perpendicular	-1
+perpendicular bisector	Interior angle	0
+perpendicular bisector	angle bisector	-1
+perpendicular bisector	tangent	0
+perpendicular bisector	collinearity	0
+perpendicular bisector	midpoint	-1
+perpendicular bisector	acute triangle	0
+perpendicular bisector	obtuse triangle	0
+perpendicular bisector	exterior angle	0
+perpendicular bisector	acute and obtuse triangles	0
+perpendicular bisector	line segment	-1
+perpendicular bisector	Rhombus	0
+perpendicular bisector	Chord (geometry)	0
+perpendicular bisector	Diagonal	0
+perpendicular bisector	angle bisector theorem	0
+perpendicular bisector	Kite (geometry)	0
+perpendicular bisector	congruence (geometry)	0
+equilateral triangles	angle	-1
+equilateral triangles	Geometry	-1
+equilateral triangles	angle bisector	0
+equilateral triangles	Triangle	1
+equilateral triangles	right triangle	0
+equilateral triangles	altitude (triangle)	0
+equilateral triangles	isosceles triangle	1
+equilateral triangles	Pythagorean Theorem	0
+equilateral triangles	Reflection symmetry	0
+angle bisector	angle	-1
+angle bisector	Geometry	-1
+angle bisector	perpendicular	0
+angle bisector	tangent	0
+angle bisector	line segment	-1
+angle bisector	trapezoids	0
+angle bisector	Rhombus	0
+angle bisector	congruence (geometry)	0
+angle bisector	Circle	0
+angle bisector	perpendicular bisector	1
+angle bisector	midpoint	-1
+angle bisector	collinearity	0
+angle bisector	angle bisector theorem	1
+angle bisector	isosceles triangle	0
+angle bisector	Convex polygon	0
+angle bisector	Chord (geometry)	0
+angle bisector	parallelogram	0
+angle bisector	Interior angle	0
+angle bisector	Kite (geometry)	0
+angle bisector	acute triangle	0
+angle bisector	obtuse triangle	0
+angle bisector	exterior angle	0
+angle bisector	Diagonal	0
+angle bisector	Scalene Triangle	0
+Triangle	distance	0
+Triangle	angle	-1
+Triangle	tangent line	0
+Triangle	Geometry	-1
+Triangle	perpendicular	0
+Triangle	tangent	0
+Triangle	trigonometric function	1
+Triangle	polygon	-1
+Triangle	Tessellation	0
+Triangle	coordinate system	-1
+Triangle	Rhombus	0
+Triangle	vertex (geometry)	0
+Triangle	Cartesian coordinate system	0
+Triangle	Sphere	0
+Triangle	diameter	0
+Triangle	congruence (geometry)	0
+Triangle	quadrilateral	0
+Triangle	Similarity (geometry)	0
+Triangle	Circle	0
+Triangle	triangle inequality	1
+Triangle	perpendicular bisector	0
+Triangle	angle bisector	0
+Triangle	Triangle	0
+Triangle	right triangle	1
+Triangle	midpoint	0
+Triangle	Special right triangles	1
+Triangle	altitude (triangle)	0
+Triangle	isosceles triangle	0
+Triangle	arc length	0
+Triangle	Convex polygon	-1
+Triangle	Pythagorean Theorem	1
+Triangle	Plane (geometry)	0
+Triangle	parallelogram	0
+Triangle	rectangle	0
+Triangle	Interior angle	0
+Triangle	edge (geometry)	0
+Triangle	Pythagorean triple	0
+Triangle	acute triangle	0
+Triangle	obtuse triangle	1
+Triangle	exterior angle	0
+Triangle	inverse trigonometric functions	0
+Triangle	Sine	0
+Triangle	exterior angle theorem	0
+Triangle	Hexagon	0
+right triangle	distance	0
+right triangle	angle	0
+right triangle	Geometry	-1
+right triangle	tangent	0
+right triangle	diameter	0
+right triangle	Circle	0
+right triangle	perpendicular bisector	0
+right triangle	Triangle	-1
+right triangle	Special right triangles	0
+right triangle	altitude (triangle)	0
+right triangle	isosceles triangle	0
+right triangle	arc length	0
+right triangle	Pythagorean Theorem	1
+right triangle	rectangle	0
+right triangle	Square (geometry)	0
+right triangle	Kite (geometry)	0
+right triangle	right angles	-1
+right triangle	Pythagorean triple	1
+right triangle	acute triangle	1
+right triangle	obtuse triangle	0
+right triangle	Sine	0
+right triangle	acute and obtuse triangles	0
+Arc (geometry)	angle	-1
+Arc (geometry)	circumference	1
+Arc (geometry)	Geometry	-1
+Arc (geometry)	perpendicular bisector	0
+Arc (geometry)	tangent	0
+Arc (geometry)	arc length	1
+Arc (geometry)	Chord (geometry)	0
+Arc (geometry)	Circle	1
+Arc (geometry)	perpendicular	0
+Arc (geometry)	Plane (geometry)	0
+Arc (geometry)	diameter	0
+midpoint	distance	0
+midpoint	angle	0
+midpoint	Geometry	-1
+midpoint	perpendicular	0
+midpoint	tangent	0
+midpoint	line segment	-1
+midpoint	polygon	0
+midpoint	symmetry	-1
+midpoint	coordinate system	0
+midpoint	trapezoids	0
+midpoint	Point (geometry)	-1
+midpoint	vertex (geometry)	0
+midpoint	Circle	-1
+midpoint	perpendicular bisector	1
+midpoint	angle bisector	1
+midpoint	right triangle	0
+midpoint	Arc (geometry)	0
+midpoint	altitude (triangle)	0
+midpoint	isosceles triangle	0
+midpoint	Convex polygon	0
+midpoint	Chord (geometry)	0
+midpoint	Plane (geometry)	0
+midpoint	acute triangle	0
+midpoint	obtuse triangle	0
+midpoint	acute and obtuse triangles	0
+midpoint	Diagonal	0
+midpoint	Scalene Triangle	0
+skew lines	parallel (geometry)	0
+skew lines	Plane (geometry)	0
+skew lines	Line (geometry)	-1
+collinearity	rectangle	0
+collinearity	distance	0
+collinearity	cone	0
+collinearity	Circle	0
+collinearity	triangle inequality	0
+collinearity	Line (geometry)	-1
+collinearity	tangent	0
+collinearity	midpoint	0
+collinearity	altitude (triangle)	0
+collinearity	Point (geometry)	-1
+collinearity	Chord (geometry)	0
+collinearity	Hexagon	0
+collinearity	Sphere	0
+collinearity	Plane (geometry)	0
+collinearity	Geometry	-1
+angle bisector theorem	angle	-1
+angle bisector theorem	Geometry	0
+angle bisector theorem	angle bisector	-1
+angle bisector theorem	Triangle	0
+angle bisector theorem	exterior angle	0
+angle bisector theorem	Sine	0
+angle bisector theorem	altitude (triangle)	0
+ray (geometry)	slope	0
+ray (geometry)	distance	0
+ray (geometry)	angle	1
+ray (geometry)	tangent line	0
+ray (geometry)	Geometry	-1
+ray (geometry)	tangent	0
+ray (geometry)	Secant line	0
+ray (geometry)	parallel (geometry)	0
+ray (geometry)	line segment	-1
+ray (geometry)	polygon	0
+ray (geometry)	Point (geometry)	-1
+ray (geometry)	Cartesian coordinate system	0
+ray (geometry)	Sphere	0
+ray (geometry)	quadrilateral	0
+ray (geometry)	Circle	0
+ray (geometry)	triangle inequality	0
+ray (geometry)	midpoint	0
+ray (geometry)	skew lines	0
+ray (geometry)	collinearity	0
+ray (geometry)	Convex polygon	0
+ray (geometry)	transversal (geometry)	0
+ray (geometry)	Plane (geometry)	0
+ray (geometry)	Hexagon	0
+Cylinder (geometry)	distance	0
+Cylinder (geometry)	angle	0
+Cylinder (geometry)	Circle	-1
+Cylinder (geometry)	perpendicular	0
+Cylinder (geometry)	Cross section (geometry)	-1
+Cylinder (geometry)	tangent	0
+Cylinder (geometry)	polyhedron	0
+Cylinder (geometry)	radius	0
+Cylinder (geometry)	coordinate system	0
+Cylinder (geometry)	cone	0
+Cylinder (geometry)	concentric circle	0
+Cylinder (geometry)	Sphere	0
+Cylinder (geometry)	diameter	0
+Cylinder (geometry)	Geometry	-1
+Special right triangles	rectangle	0
+Special right triangles	angle	-1
+Special right triangles	Circle	0
+Special right triangles	Geometry	-1
+Special right triangles	trigonometric function	0
+Special right triangles	right triangle	-1
+Special right triangles	midpoint	0
+Special right triangles	Pythagorean triple	0
+Special right triangles	isosceles triangle	0
+Special right triangles	Triangle	-1
+Special right triangles	Pythagorean Theorem	0
+altitude (triangle)	distance	-1
+altitude (triangle)	angle	0
+altitude (triangle)	Circle	0
+altitude (triangle)	Geometry	-1
+altitude (triangle)	perpendicular	-1
+altitude (triangle)	angle bisector	0
+altitude (triangle)	tangent	0
+altitude (triangle)	right triangle	-1
+altitude (triangle)	trigonometric function	0
+altitude (triangle)	line segment	-1
+altitude (triangle)	obtuse triangle	0
+altitude (triangle)	acute and obtuse triangles	0
+altitude (triangle)	isosceles triangle	0
+altitude (triangle)	acute triangle	-1
+altitude (triangle)	Triangle	-1
+altitude (triangle)	vertex (geometry)	-1
+altitude (triangle)	Scalene Triangle	0
+altitude (triangle)	Equilateral Triangle	0
+altitude (triangle)	congruence (geometry)	0
+isosceles triangle	Kite (geometry)	0
+isosceles triangle	angle	-1
+isosceles triangle	Rhombus	0
+arc length	slope	0
+arc length	radius	0
+arc length	angle	0
+arc length	tangent line	0
+arc length	Arc (geometry)	-1
+arc length	distance	-1
+arc length	polygon	0
+arc length	Sphere	0
+Convex polygon	angle	0
+Convex polygon	Triangle	1
+Convex polygon	line segment	-1
+Convex polygon	polygon	-1
+Convex polygon	Tessellation	0
+Convex polygon	trapezoids	0
+Convex polygon	isosceles triangle	0
+Convex polygon	Rhombus	0
+Convex polygon	Kite (geometry)	0
+Convex polygon	Pyramid (geometry)	0
+Convex polygon	diameter	0
+Chord (geometry)	angle	0
+Chord (geometry)	Circle	-1
+Chord (geometry)	line segment	0
+Chord (geometry)	Sine	0
+Chord (geometry)	arc length	0
+Chord (geometry)	Pythagorean Theorem	0
+Translation (geometry)	distance	0
+Translation (geometry)	Geometry	-1
+Translation (geometry)	symmetry	-1
+Translation (geometry)	coordinate system	0
+Translation (geometry)	Cartesian coordinate system	0
+Translation (geometry)	Scaling (geometry)	0
+Pythagorean Theorem	distance	0
+Pythagorean Theorem	angle	-1
+Pythagorean Theorem	Geometry	0
+Pythagorean Theorem	perpendicular	0
+Pythagorean Theorem	trigonometric function	-1
+Pythagorean Theorem	polygon	0
+Pythagorean Theorem	Sphere	0
+Pythagorean Theorem	congruence (geometry)	0
+Pythagorean Theorem	Similarity (geometry)	0
+Pythagorean Theorem	cone	0
+Pythagorean Theorem	Triangle	-1
+Pythagorean Theorem	right triangle	-1
+Pythagorean Theorem	altitude (triangle)	0
+Pythagorean Theorem	isosceles triangle	0
+Pythagorean Theorem	arc length	0
+Pythagorean Theorem	Convex polygon	0
+Pythagorean Theorem	two dimensions	0
+Pythagorean Theorem	parallelogram	-1
+Pythagorean Theorem	rectangle	0
+Pythagorean Theorem	right angles	-1
+Pythagorean Theorem	Pythagorean triple	-1
+Pythagorean Theorem	obtuse triangle	0
+Pythagorean Theorem	Sine	0
+Pythagorean Theorem	rigid transformation	0
+Pythagorean Theorem	Scalene Triangle	0
+transversal (geometry)	angle	-1
+transversal (geometry)	Geometry	-1
+transversal (geometry)	perpendicular	0
+transversal (geometry)	Line (geometry)	-1
+transversal (geometry)	Interior angle	-1
+transversal (geometry)	exterior angle	0
+transversal (geometry)	Point (geometry)	-1
+transversal (geometry)	Plane (geometry)	-1
+transversal (geometry)	congruence (geometry)	0
+Space (mathematics)	Cartesian coordinate system	0
+Plane (geometry)	transversal (geometry)	0
+Plane (geometry)	Sphere	0
+Plane (geometry)	Cartesian coordinate system	0
+Plane (geometry)	Line (geometry)	0
+rotation (mathematics)	distance	0
+rotation (mathematics)	angle	-1
+rotation (mathematics)	Circle	0
+rotation (mathematics)	Geometry	0
+rotation (mathematics)	Line (geometry)	0
+rotation (mathematics)	symmetry	-1
+rotation (mathematics)	Sphere	0
+rotation (mathematics)	rotational symmetry	1
+rotation (mathematics)	Translation (geometry)	0
+rotation (mathematics)	Cartesian coordinate system	0
+rotation (mathematics)	Space (mathematics)	0
+rotation (mathematics)	Plane (geometry)	0
+rotation (mathematics)	Reflection (mathematics)	1
+Reflection (mathematics)	distance	0
+Reflection (mathematics)	Circle	0
+Reflection (mathematics)	Geometry	0
+Reflection (mathematics)	perpendicular	0
+Reflection (mathematics)	Reflection symmetry	1
+Reflection (mathematics)	symmetry	-1
+Reflection (mathematics)	Cartesian coordinate system	0
+Reflection (mathematics)	two dimensions	0
+Reflection (mathematics)	rotation (mathematics)	-1
+parallelogram	slope	0
+parallelogram	distance	0
+parallelogram	angle	1
+parallelogram	tangent line	0
+parallelogram	Geometry	-1
+parallelogram	tangent	0
+parallelogram	parallel (geometry)	0
+parallelogram	polygon	-1
+parallelogram	Tessellation	0
+parallelogram	trapezoids	1
+parallelogram	Rhombus	1
+parallelogram	rhombi	0
+parallelogram	congruence (geometry)	0
+parallelogram	quadrilateral	-1
+parallelogram	right triangle	0
+parallelogram	midpoint	0
+parallelogram	Convex polygon	0
+parallelogram	Pythagorean Theorem	0
+parallelogram	rectangle	1
+parallelogram	rotational symmetry	0
+parallelogram	circumference	0
+parallelogram	Square (geometry)	0
+parallelogram	Interior angle	0
+parallelogram	Kite (geometry)	0
+parallelogram	Face (geometry)	0
+parallelogram	Diagonal	0
+parallelogram	Scalene Triangle	0
+rectangle	angle	-1
+rectangle	Geometry	0
+rectangle	perpendicular	0
+rectangle	Line (geometry)	0
+rectangle	parallel (geometry)	-1
+rectangle	polygon	0
+rectangle	symmetry	-1
+rectangle	Tessellation	0
+rectangle	trapezoids	0
+rectangle	Rhombus	1
+rectangle	vertex (geometry)	-1
+rectangle	Sphere	0
+rectangle	Reflection symmetry	0
+rectangle	Pyramid (geometry)	0
+rectangle	quadrilateral	-1
+rectangle	Similarity (geometry)	0
+rectangle	Circle	0
+rectangle	perpendicular bisector	0
+rectangle	right triangle	-1
+rectangle	midpoint	0
+rectangle	Convex polygon	0
+rectangle	Translation (geometry)	0
+rectangle	two dimensions	0
+rectangle	parallelogram	-1
+rectangle	rotational symmetry	0
+rectangle	Square (geometry)	1
+rectangle	Interior angle	0
+rectangle	edge (geometry)	-1
+rectangle	Kite (geometry)	1
+rectangle	right angles	-1
+rectangle	Diagonal	1
+rectangle	Scalene Triangle	0
+Self-similarity	symmetry	-1
+Self-similarity	Similarity (geometry)	-1
+rotational symmetry	quadrilateral	0
+rotational symmetry	distance	0
+rotational symmetry	cone	0
+rotational symmetry	perpendicular	0
+rotational symmetry	equilateral triangles	0
+rotational symmetry	scale factor	0
+rotational symmetry	midpoint	0
+rotational symmetry	symmetry	-1
+rotational symmetry	Tessellation	0
+rotational symmetry	trapezoids	0
+rotational symmetry	Rhombus	0
+rotational symmetry	prism (geometry)	0
+rotational symmetry	rotation (mathematics)	-1
+circumference	radius	-1
+circumference	Circle	-1
+circumference	Geometry	-1
+circumference	Arc (geometry)	-1
+circumference	distance	0
+circumference	polygon	0
+circumference	trapezoids	0
+circumference	arc length	0
+circumference	Rhombus	0
+circumference	Pythagorean Theorem	0
+circumference	Sphere	0
+Square (geometry)	distance	0
+Square (geometry)	angle	-1
+Square (geometry)	Geometry	-1
+Square (geometry)	perpendicular	0
+Square (geometry)	parallel (geometry)	0
+Square (geometry)	polygon	-1
+Square (geometry)	symmetry	0
+Square (geometry)	Tessellation	0
+Square (geometry)	coordinate system	0
+Square (geometry)	trapezoids	0
+Square (geometry)	Rhombus	0
+Square (geometry)	vertex (geometry)	0
+Square (geometry)	Reflection symmetry	0
+Square (geometry)	quadrilateral	-1
+Square (geometry)	Circle	0
+Square (geometry)	perpendicular bisector	0
+Square (geometry)	Convex polygon	0
+Square (geometry)	Pythagorean Theorem	0
+Square (geometry)	two dimensions	0
+Square (geometry)	rectangle	-1
+Square (geometry)	rotational symmetry	0
+Square (geometry)	circumference	0
+Square (geometry)	edge (geometry)	-1
+Square (geometry)	Kite (geometry)	0
+Square (geometry)	right angles	-1
+Square (geometry)	acute triangle	0
+Square (geometry)	obtuse triangle	0
+Square (geometry)	Hexagon	0
+Square (geometry)	Octagon	0
+Cross section (geometry)	Cylinder (geometry)	0
+Cross section (geometry)	Plane (geometry)	0
+Interior angle	angle	-1
+Interior angle	Geometry	0
+Interior angle	polygon	0
+Interior angle	exterior angle	1
+Interior angle	Star polygon	0
+Interior angle	Convex polygon	0
+Interior angle	vertex (geometry)	0
+Interior angle	transversal (geometry)	0
+Interior angle	exterior angle theorem	0
+edge (geometry)	rectangle	1
+edge (geometry)	Geometry	-1
+edge (geometry)	polyhedron	1
+edge (geometry)	line segment	-1
+edge (geometry)	polygon	1
+edge (geometry)	Tessellation	0
+edge (geometry)	Face (geometry)	0
+edge (geometry)	vertex (geometry)	0
+edge (geometry)	Diagonal	0
+edge (geometry)	Scalene Triangle	1
+edge (geometry)	Pyramid (geometry)	0
+edge (geometry)	Square (geometry)	1
+Kite (geometry)	quadrilateral	-1
+scale factor	distance	0
+scale factor	Scaling (geometry)	0
+right angles	rectangle	1
+right angles	angle	-1
+right angles	Geometry	-1
+right angles	perpendicular	-1
+right angles	Triangle	0
+right angles	right triangle	1
+right angles	Pythagorean triple	0
+right angles	coordinate system	-1
+right angles	trapezoids	0
+right angles	Pythagorean Theorem	1
+right angles	Cartesian coordinate system	0
+right angles	Square (geometry)	0
+Pythagorean triple	Pythagorean Theorem	0
+Pythagorean triple	right triangle	-1
+acute triangle	angle	-1
+acute triangle	tangent	-1
+acute triangle	right triangle	-1
+acute triangle	altitude (triangle)	0
+obtuse triangle	Triangle	-1
+obtuse triangle	angle	-1
+exterior angle	angle	-1
+exterior angle	Geometry	0
+exterior angle	Interior angle	-1
+exterior angle	polygon	-1
+exterior angle	Star polygon	0
+exterior angle	exterior angle theorem	0
+exterior angle	vertex (geometry)	0
+exterior angle	Convex polygon	0
+inverse trigonometric functions	angle	-1
+inverse trigonometric functions	Circle	0
+inverse trigonometric functions	Geometry	-1
+inverse trigonometric functions	tangent	-1
+inverse trigonometric functions	right triangle	0
+inverse trigonometric functions	trigonometric function	-1
+inverse trigonometric functions	Sine	0
+inverse trigonometric functions	Pythagorean Theorem	0
+inverse trigonometric functions	Scalene Triangle	0
+Sine	Cartesian coordinate system	0
+Sine	angle	-1
+Sine	trigonometric function	-1
+acute and obtuse triangles	angle	-1
+Face (geometry)	Geometry	-1
+Face (geometry)	polyhedron	1
+Face (geometry)	line segment	0
+Face (geometry)	polygon	-1
+Face (geometry)	symmetry	0
+Face (geometry)	Tessellation	0
+Face (geometry)	Rhombus	0
+Face (geometry)	prism (geometry)	0
+Face (geometry)	Plane (geometry)	0
+Face (geometry)	Square (geometry)	0
+rigid transformation	Translation (geometry)	0
+rigid transformation	distance	0
+rigid transformation	Geometry	0
+rigid transformation	rotation (mathematics)	0
+rigid transformation	Reflection (mathematics)	0
+exterior angle theorem	ray (geometry)	0
+exterior angle theorem	angle	-1
+exterior angle theorem	Circle	0
+exterior angle theorem	Geometry	-1
+exterior angle theorem	Interior angle	-1
+exterior angle theorem	midpoint	0
+exterior angle theorem	exterior angle	-1
+exterior angle theorem	Sphere	0
+concentric circle	Sphere	0
+concentric circle	Circle	0
+concentric circle	Geometry	-1
+concentric circle	Equilateral Triangle	0
+Heptagon	radius	0
+Heptagon	angle	1
+Heptagon	two dimensions	0
+Heptagon	Geometry	-1
+Heptagon	polygon	1
+Diagonal	Square (geometry)	0
+Diagonal	Kite (geometry)	0
+Diagonal	line segment	1
+Diagonal	polygon	0
+Diagonal	ray (geometry)	0
+Diagonal	isosceles triangle	0
+Diagonal	Rhombus	0
+Diagonal	Convex polygon	0
+Diagonal	Geometry	1
+Scalene Triangle	angle	1
+Scalene Triangle	tangent line	0
+Scalene Triangle	Geometry	-1
+Scalene Triangle	Cartesian coordinate system	0
+Scalene Triangle	right triangle	0
+Scalene Triangle	Pythagorean triple	0
+Scalene Triangle	polygon	0
+Scalene Triangle	exterior angle	0
+Scalene Triangle	Tessellation	0
+Scalene Triangle	Special right triangles	0
+Scalene Triangle	isosceles triangle	0
+Scalene Triangle	exterior angle theorem	0
+Scalene Triangle	Hexagon	0
+Scalene Triangle	Sphere	0
+Scalene Triangle	Plane (geometry)	0
+Scalene Triangle	congruence (geometry)	0
+Acute and obtuse triangles	isosceles triangle	1
+Acute and obtuse triangles	Hexagon	0
+Acute and obtuse triangles	Scalene Triangle	1
+Acute and obtuse triangles	Pyramid (geometry)	0
+Acute and obtuse triangles	Equilateral Triangle	0
+Equilateral Triangle	angle	1
+Equilateral Triangle	Square (geometry)	0
+Equilateral Triangle	Tessellation	0
+Equilateral Triangle	isosceles triangle	1
+Equilateral Triangle	Hexagon	0
+Equilateral Triangle	Scalene Triangle	0
+Equilateral Triangle	Pyramid (geometry)	0
+Pentagon	quadrilateral	0
+Pentagon	Decagon	0
+Pentagon	rotational symmetry	0
+Pentagon	Circle	0
+Pentagon	Geometry	-1
+Pentagon	Interior angle	0
+Pentagon	Dodecagon	0
+Pentagon	polygon	1
+Pentagon	Special right triangles	0
+Pentagon	Star polygon	0
+Pentagon	Convex polygon	0
+Pentagon	prism (geometry)	0
+Pentagon	Diagonal	0
+Pentagon	Hexagon	0
+Pentagon	two dimensions	0
+Decagon	angle	0
+Decagon	Geometry	-1
+Decagon	polygon	0
+Dodecagon	angle	0
+Dodecagon	Geometry	-1
+Dodecagon	polyhedron	0
+Dodecagon	polygon	1
+Dodecagon	Star polygon	0
+Dodecagon	Hexagon	0
+Dodecagon	two dimensions	0
+Two-dimensional space	Decagon	0
+Two-dimensional space	Nonagon	0
+Two-dimensional space	Octagon	0
+Two-dimensional space	Hendecagon	0
+Two-dimensional space	Cartesian coordinate system	1
+Two-dimensional space	coordinate system	1
+Two-dimensional space	Star polygon	0
+Two-dimensional space	Hexagon	0
+Two-dimensional space	Sphere	0
+Two-dimensional space	Plane (geometry)	0
+Two-dimensional space	Equilateral Triangle	0
+Nonagon	polygon	1
+Octagon	rotational symmetry	0
+Octagon	angle	0
+Hendecagon	Geometry	-1
+Hendecagon	polygon	1

@@ -1,0 +1,529 @@
+object model	Object Definition Language	-1
+object model	Object database	1
+Object Definition Language	object model	0
+Object database	object model	-1
+Object database	Object-relational database	-1
+Fifth normal form	First normal form	-1
+Fifth normal form	Table (database)	0
+Fifth normal form	Fourth normal form	-1
+Fifth normal form	Join dependency	-1
+Fifth normal form	candidate key	0
+Fifth normal form	relational database	0
+Fifth normal form	Boyce-Codd normal form	-1
+Fifth normal form	Second normal form	-1
+Fifth normal form	Database normalization	-1
+Fifth normal form	Third normal form	-1
+First normal form	SQL	0
+First normal form	Fifth normal form	0
+First normal form	Tuple	0
+First normal form	Boyce-Codd normal form	1
+First normal form	Second normal form	1
+First normal form	Database normalization	-1
+First normal form	Third normal form	0
+First normal form	Data domain	0
+First normal form	Relation (database)	0
+First normal form	Relational model	0
+First normal form	Functional dependency	-1
+First normal form	unique key	0
+Table (database)	materialized view	0
+Table (database)	Database security	0
+Table (database)	Database schema	0
+Table (database)	Database index	0
+Table (database)	Delete (SQL)	1
+Table (database)	referential integrity	0
+Table (database)	relational database	0
+Table (database)	Data definition language	0
+Table (database)	Database normalization	1
+Table (database)	Check constraint	1
+Table (database)	Data domain	1
+Table (database)	Database trigger	0
+Table (database)	Update (SQL)	1
+Table (database)	Tuple	1
+Table (database)	flat file database	0
+Table (database)	Join (SQL)	1
+Fourth normal form	Fifth normal form	0
+Fourth normal form	Table (database)	0
+Fourth normal form	candidate key	-1
+Fourth normal form	relational database	-1
+Fourth normal form	Boyce-Codd normal form	-1
+Fourth normal form	Second normal form	-1
+Fourth normal form	Database normalization	-1
+Fourth normal form	Third normal form	-1
+Fourth normal form	Functional dependency	-1
+Fourth normal form	Multivalued dependency	-1
+Join dependency	Multivalued dependency	1
+Join dependency	Functional dependency	0
+Join dependency	Fifth normal form	0
+candidate key	First normal form	1
+candidate key	Fourth normal form	0
+candidate key	referential integrity	0
+candidate key	relational database	-1
+candidate key	Boyce-Codd normal form	1
+candidate key	Second normal form	1
+candidate key	Database normalization	1
+candidate key	Third normal form	1
+candidate key	Database schema	0
+candidate key	Relational model	-1
+candidate key	Functional dependency	0
+candidate key	unique key	0
+relational database	Object database	0
+relational database	First normal form	1
+relational database	Table (database)	-1
+relational database	Fourth normal form	1
+relational database	candidate key	1
+relational database	Database normalization	1
+relational database	Relational model	1
+relational database	Conceptual schema	0
+relational database	database design	1
+relational database	weak entity	0
+relational database	unique key	1
+relational database	SQL	1
+relational database	Foreign key	0
+relational database	Data definition language	0
+relational database	Data domain	1
+relational database	Database schema	0
+relational database	Insert (SQL)	0
+relational database	Where (SQL)	0
+relational database	Query plan	0
+relational database	bitmap index	0
+relational database	data integrity	0
+relational database	Object-relational database	1
+relational database	deductive database	0
+relational database	query optimization	0
+relational database	Cartesian product	-1
+relational database	Tuple	-1
+relational database	entity integrity	0
+relational database	referential integrity	1
+relational database	B-tree	0
+relational database	flat file database	0
+relational database	Stored procedure	0
+relational database	Java Database Connectivity	1
+relational database	mass storage	0
+relational database	active database	0
+relational database	Check constraint	0
+relational database	set theory	0
+relational database	Relational calculus	-1
+relational database	Relation (database)	-1
+relational database	relational model	-1
+relational database	Functional dependency	1
+Boyce-Codd normal form	Fifth normal form	0
+Boyce-Codd normal form	First normal form	-1
+Boyce-Codd normal form	Fourth normal form	0
+Boyce-Codd normal form	Second normal form	-1
+Boyce-Codd normal form	Database normalization	-1
+Boyce-Codd normal form	Third normal form	-1
+Boyce-Codd normal form	Functional dependency	1
+Second normal form	Fifth normal form	1
+Second normal form	First normal form	-1
+Second normal form	Fourth normal form	1
+Second normal form	Boyce-Codd normal form	1
+Second normal form	Database normalization	-1
+Second normal form	Third normal form	1
+Database normalization	Fifth normal form	0
+Database normalization	First normal form	-1
+Database normalization	Table (database)	0
+Database normalization	Fourth normal form	-1
+Database normalization	candidate key	0
+Database normalization	relational database	-1
+Database normalization	Second normal form	-1
+Database normalization	Third normal form	-1
+Database normalization	Functional dependency	-1
+Database normalization	Relational model	0
+Third normal form	Fifth normal form	0
+Third normal form	First normal form	-1
+Third normal form	Fourth normal form	1
+Third normal form	Boyce-Codd normal form	1
+Third normal form	Second normal form	-1
+Third normal form	Database normalization	-1
+Third normal form	Relation (database)	0
+Third normal form	Functional dependency	-1
+Entity-relationship model	relational database	0
+Entity-relationship model	Database index	0
+Entity-relationship model	Class diagram	0
+Entity-relationship model	Temporal database	0
+Entity-relationship model	Semi-structured data	0
+Entity-relationship model	Relational model	0
+Entity-relationship model	data dictionary	0
+Entity-relationship model	Associative entity	1
+Entity-relationship model	physical data model	0
+Entity-relationship model	Conceptual schema	0
+Entity-relationship model	three schema approach	0
+Entity-relationship model	database design	0
+Entity-relationship model	Unified Modeling Language	0
+Entity-relationship model	Information System	0
+Entity-relationship model	Data modeling	0
+Entity-relationship model	weak entity	1
+Entity-relationship model	unique key	0
+Database index	bitmap index	-1
+Database index	B-tree	-1
+Database index	Composite index (database)	0
+Database index	Data definition language	0
+Database index	concurrency control	0
+Class diagram	Unified Modeling Language	-1
+Class diagram	Use Case Diagram	1
+Class diagram	Data modeling	0
+Class diagram	Use case	0
+Class diagram	Communication diagram	0
+Temporal database	Database schema	1
+Relational model	Object database	0
+Relational model	Table (database)	0
+Relational model	candidate key	1
+Relational model	relational database	-1
+Relational model	Database normalization	1
+Relational model	Conceptual schema	0
+Relational model	database design	-1
+Relational model	unique key	0
+Relational model	Join (SQL)	0
+Relational model	Foreign key	0
+Relational model	Data domain	-1
+Relational model	Database schema	-1
+Relational model	data type	0
+Relational model	Query plan	0
+Relational model	Database transaction	0
+Relational model	Object-relational database	0
+Relational model	query optimization	1
+Relational model	Cartesian product	-1
+Relational model	Tuple	0
+Relational model	entity integrity	0
+Relational model	Relational calculus	1
+Relational model	Functional dependency	0
+Relational model	Domain relational calculus	-1
+Relational model	materialized view	0
+data dictionary	data integrity	0
+data dictionary	SQL	0
+data dictionary	query optimization	0
+data dictionary	Join (SQL)	0
+data dictionary	Table (database)	0
+data dictionary	Foreign key	0
+data dictionary	Data definition language	0
+data dictionary	Database schema	0
+data dictionary	data type	0
+data dictionary	database design	0
+physical data model	Conceptual schema	0
+physical data model	database design	0
+physical data model	SQL	0
+Conceptual schema	three schema approach	1
+Conceptual schema	Database schema	0
+three schema approach	Conceptual schema	-1
+three schema approach	Database schema	-1
+database design	data integrity	0
+database design	Object database	0
+database design	relational database	-1
+database design	Data definition language	0
+database design	Database normalization	-1
+database design	Database schema	0
+database design	data type	0
+database design	Relational model	0
+database design	Conceptual schema	1
+database design	three schema approach	1
+Unified Modeling Language	Class diagram	0
+Unified Modeling Language	Use Case Diagram	1
+Unified Modeling Language	Communication diagram	1
+Unified Modeling Language	Use case	0
+Information System	data integrity	0
+Information System	Object-relational database	0
+Information System	concurrency control	0
+Information System	multiversion concurrency control	0
+Information System	three schema approach	0
+Data modeling	Object database	0
+Data modeling	Table (database)	0
+Data modeling	relational database	0
+Data modeling	Data definition language	0
+Data modeling	scientific modelling	0
+Data modeling	Data domain	0
+Data modeling	Database schema	0
+Data modeling	Relational model	1
+Data modeling	data dictionary	0
+Data modeling	physical data model	1
+Data modeling	Conceptual schema	0
+Data modeling	three schema approach	0
+Data modeling	database design	0
+Data modeling	Information System	0
+weak entity	Foreign key	0
+weak entity	Database normalization	0
+weak entity	Associative entity	0
+unique key	data integrity	0
+unique key	SQL	-1
+unique key	Object identifier	0
+unique key	Tuple	0
+unique key	B-tree	0
+unique key	Foreign key	1
+unique key	Database index	0
+unique key	data type	0
+unique key	candidate key	-1
+unique key	relational database	-1
+SQLJ	Embedded SQL	0
+SQLJ	SQL	0
+SQL	Table (database)	0
+SQL	relational database	-1
+SQL	Database normalization	0
+SQL	Database index	0
+SQL	Relational model	0
+SQL	unique key	1
+SQL	Join (SQL)	1
+SQL	Database trigger	1
+SQL	Data manipulation language	0
+SQL	Data definition language	1
+SQL	Database schema	0
+SQL	Update (SQL)	1
+SQL	Where (SQL)	1
+SQL	Query plan	1
+SQL	aggregate function	0
+SQL	Set operations (SQL)	0
+SQL	multiversion concurrency control	0
+SQL	Database transaction	0
+SQL	Object-relational database	0
+SQL	deductive database	0
+SQL	query optimization	1
+SQL	Tuple	0
+SQL	entity integrity	0
+SQL	Java Database Connectivity	0
+SQL	Relation (database)	0
+SQL	SQL injection	0
+SQL	XML	0
+SQL	SQL/PSM	1
+SQL	SQL/CLI	1
+SQL	materialized view	0
+SQL	Database security	0
+transaction processing	Information System	0
+transaction processing	SQL	0
+transaction processing	concurrency control	-1
+transaction processing	Join (SQL)	0
+transaction processing	Atomicity (database systems)	0
+concurrency control	transaction processing	0
+concurrency control	Timestamp-based concurrency control	0
+concurrency control	multiversion concurrency control	0
+Join (SQL)	bitmap index	0
+Join (SQL)	data integrity	0
+Join (SQL)	Object database	0
+Join (SQL)	query optimization	0
+Join (SQL)	Foreign key	0
+Join (SQL)	Database normalization	0
+Join (SQL)	Database index	0
+Join (SQL)	Query plan	0
+Atomicity (database systems)	concurrency control	0
+Atomicity (database systems)	Database transaction	1
+Delete (SQL)	Database trigger	0
+Delete (SQL)	Data manipulation language	0
+Delete (SQL)	Foreign key	0
+Delete (SQL)	Data definition language	0
+Database trigger	Data definition language	0
+Database trigger	SQL	-1
+Database trigger	Object database	0
+Database trigger	XML	-1
+Database trigger	Database schema	0
+Data manipulation language	SQL	1
+Data manipulation language	relational database	0
+Data manipulation language	Data definition language	0
+Data manipulation language	Select (SQL)	0
+Data manipulation language	data type	0
+Data manipulation language	Update (SQL)	0
+Data manipulation language	data dictionary	0
+Data manipulation language	Where (SQL)	0
+Data manipulation language	Insert (SQL)	0
+Foreign key	referential integrity	0
+Foreign key	Data definition language	0
+Foreign key	Functional dependency	0
+Foreign key	Database normalization	1
+Data definition language	SQL	-1
+Data definition language	XML schema	0
+Use Case Diagram	Class diagram	-1
+Use Case Diagram	Unified Modeling Language	-1
+Use Case Diagram	Use case	-1
+Communication diagram	Unified Modeling Language	-1
+Communication diagram	Use Case Diagram	0
+Communication diagram	Use case	0
+Use case	reliability engineering	0
+Use case	Sequence diagram	-1
+Use case	Use Case Diagram	1
+Data domain	Table (database)	-1
+Data domain	Database trigger	0
+Data domain	Foreign key	0
+Data domain	Database normalization	0
+Data domain	Check constraint	1
+Data domain	data type	-1
+Data domain	Relational model	0
+Data domain	relational database	-1
+Database schema	Object-relational database	0
+Database schema	Object database	0
+Database schema	Data definition language	0
+Database schema	Functional dependency	0
+Database schema	XML schema	0
+Database schema	three schema approach	1
+Database schema	Relational model	0
+Select (SQL)	SQL	1
+Select (SQL)	Table (database)	1
+Select (SQL)	relational database	0
+Select (SQL)	Data definition language	0
+Select (SQL)	Insert (SQL)	0
+Select (SQL)	Where (SQL)	0
+Select (SQL)	Query plan	0
+Select (SQL)	aggregate function	0
+Select (SQL)	Set operations (SQL)	0
+data type	Object-relational database	0
+data type	concurrency control	0
+data type	Tuple	0
+data type	AVL tree	0
+data type	flat file database	0
+data type	Data definition language	0
+data type	Data domain	1
+data type	Database schema	0
+data type	XML schema	1
+data type	XML	0
+Update (SQL)	Database trigger	0
+Update (SQL)	Data definition language	0
+Update (SQL)	Check constraint	1
+Insert (SQL)	SQL	1
+Insert (SQL)	Stored procedure	0
+Insert (SQL)	Table (database)	1
+Insert (SQL)	Database trigger	0
+Insert (SQL)	Data definition language	0
+Insert (SQL)	Check constraint	0
+Where (SQL)	Update (SQL)	0
+Where (SQL)	Join (SQL)	0
+Where (SQL)	Delete (SQL)	0
+Query plan	SQL	-1
+Query plan	query optimization	1
+aggregate function	materialized view	0
+aggregate function	XML	0
+Set operations (SQL)	SQL	-1
+Set operations (SQL)	data type	0
+Set operations (SQL)	Join (SQL)	1
+Set operations (SQL)	Table (database)	0
+Set operations (SQL)	Database normalization	0
+grid file	Lattice graph	-1
+grid file	Table (database)	0
+Lattice graph	grid file	0
+Sequence diagram	Communication diagram	0
+Sequence diagram	Use case	1
+Timestamp-based concurrency control	concurrency control	-1
+Timestamp-based concurrency control	multiversion concurrency control	0
+multiversion concurrency control	Object database	0
+multiversion concurrency control	concurrency control	-1
+multiversion concurrency control	Database transaction	1
+Database transaction	data integrity	1
+Database transaction	Data definition language	0
+Database transaction	concurrency control	1
+bitmap index	Database index	0
+bitmap index	B-tree	-1
+data integrity	Database security	0
+data integrity	concurrency control	0
+data integrity	entity integrity	-1
+data integrity	referential integrity	-1
+data integrity	Foreign key	0
+data integrity	Check constraint	0
+data integrity	Database schema	0
+Object-relational database	relational database	-1
+Object-relational database	Object database	1
+query optimization	SQL	-1
+query optimization	Relational model	-1
+query optimization	Disk storage	0
+query optimization	Tuple	0
+query optimization	Query plan	-1
+Cartesian product	relational database	0
+Cartesian product	data type	0
+Cartesian product	Relational model	0
+Cartesian product	Join (SQL)	1
+Cartesian product	Tuple	-1
+entity integrity	data integrity	1
+entity integrity	Foreign key	0
+entity integrity	Table (database)	0
+referential integrity	data integrity	1
+referential integrity	Data definition language	0
+referential integrity	Join (SQL)	0
+referential integrity	Tuple	0
+referential integrity	entity integrity	0
+referential integrity	candidate key	-1
+referential integrity	Foreign key	-1
+referential integrity	Delete (SQL)	0
+referential integrity	Relation (database)	-1
+referential integrity	Third normal form	1
+referential integrity	Boyce-Codd normal form	1
+referential integrity	Temporal database	0
+referential integrity	Functional dependency	0
+referential integrity	data dictionary	0
+referential integrity	Unique key	-1
+referential integrity	Table (database)	-1
+referential integrity	relational database	-1
+referential integrity	weak entity	0
+referential integrity	XML schema	0
+B-tree	bitmap index	0
+B-tree	Database index	0
+B-tree	Tree structure	-1
+Stored procedure	Database schema	0
+Stored procedure	Data definition language	0
+Stored procedure	SQL/PSM	0
+Java Database Connectivity	Query plan	0
+Java Database Connectivity	relational database	-1
+Java Database Connectivity	Database transaction	0
+Java Database Connectivity	SQL	-1
+Java Database Connectivity	SQL injection	0
+mass storage	Disk storage	0
+active database	Database trigger	0
+active database	Object database	0
+Check constraint	Data domain	0
+set theory	Tree structure	0
+set theory	Relational model	1
+set theory	Cartesian product	0
+set theory	Tuple	0
+Relational calculus	Domain relational calculus	1
+Relational calculus	relational database	0
+Relational calculus	Relational model	-1
+Relational calculus	Relation (database)	0
+Relational calculus	Tuple	-1
+Relation (database)	Data independence	0
+Relation (database)	Tuple	0
+Relation (database)	Table (database)	0
+Relation (database)	entity integrity	0
+Relation (database)	referential integrity	0
+Relation (database)	candidate key	0
+Relation (database)	relational database	0
+Relation (database)	Data definition language	0
+Relation (database)	Data domain	0
+Relation (database)	Database schema	1
+Relation (database)	data type	0
+Relation (database)	Relational model	1
+Relation (database)	Functional dependency	0
+Relation (database)	Join (SQL)	0
+relational model	relational database	0
+Functional dependency	relational database	-1
+Functional dependency	Database normalization	1
+Functional dependency	First normal form	0
+Functional dependency	Third normal form	0
+Functional dependency	Fourth normal form	0
+XML schema	data type	-1
+XML schema	XML	-1
+Unique key	referential integrity	0
+SQL injection	SQL	-1
+SQL injection	data type	0
+SQL injection	XML	0
+SQL injection	Table (database)	0
+spatial database	Database index	0
+spatial database	Object database	0
+spatial database	SQL	0
+spatial database	data type	0
+Multivalued dependency	Functional dependency	0
+Multivalued dependency	Fourth normal form	0
+Disk storage	B-tree	0
+Tree structure	B-tree	1
+Tree structure	AVL tree	1
+Domain relational calculus	Relational calculus	-1
+Domain relational calculus	Relational model	0
+Domain relational calculus	Tuple	-1
+XML	Object database	0
+XML	Database trigger	1
+XML	flat file database	0
+XML	Data definition language	0
+XML	Database schema	0
+XML	XML schema	1
+materialized view	bitmap index	0
+materialized view	Database trigger	0
+materialized view	Table (database)	-1
+materialized view	Database schema	0
+Modular programming	multiple inheritance	0
+Object identifier	Object-relational database	0
+programming tool	flat file database	0
+AVL tree	B-tree	0
+AVL tree	Tree structure	-1
+Actor model	concurrency control	0
+reliability engineering	concurrency control	0
